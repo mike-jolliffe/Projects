@@ -1,9 +1,14 @@
+# imports
 import numpy as np
 import pandas as pd
 from pandas import Series,DataFrame
+
+# parse Excel spreadsheet
 sites = pd.ExcelFile('Uplift_heights.xlsx')
 dframe = sites.parse('Sheet1')
 bins = []
+
+# create dictionary to hold values
 bin_dict = {'x21':[],'x22':[],'x23':[],'x24':[],'x25':[],'x26':[],'x27':[],'x28':[],'x29':[],'x30':[],'x31':[]}
 bin_dict_kcals = {'x21':[],'x22':[],'x23':[],'x24':[],'x25':[],'x26':[],'x27':[],'x28':[],'x29':[],'x30':[],'x31':[]}
 for i,j,k in zip(dframe['Resto_height'],dframe['Bin #'],dframe['kcals/day']):
