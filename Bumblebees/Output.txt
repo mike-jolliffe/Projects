@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html ng-app="bbwapp" ng-controller="AppCtrl">
+ <head>
+  <title>
+  </title>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <meta charset="utf-8"/>
+  <link href="app.full.min.css" rel="stylesheet"/>
+  <link href="//code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css" rel="stylesheet"/>
+ </head>
+ <body auth-application="">
+  <div class="container">
+   <div class="row clearfix">
+    <div class="col-md-12 column" ng-include="'base/partial/nav-index/nav-index.html'">
+    </div>
+   </div>
+   <div class="row clearfix">
+    <div class="col-md-12" id="main-content">
+     <div class="bbw-content" ui-view="">
+     </div>
+    </div>
+   </div>
+  </div>
+  <div class="hidden-" id="footer-container" ng-include="'base/partial/footer-index/footer-index.html'">
+  </div>
+  <script src="app.full.min.js?20170724">
+  </script>
+  <script src="//code.jquery.com/ui/1.10.3/jquery-ui.js">
+  </script>
+  <script src="//maps.googleapis.com/maps/api/js?key=AIzaSyAau6ULYIHdFqzhm0L48Wn1JZWAieSWbW0&amp;language=en&amp;libraries=places,drawing,visualization">
+  </script>
+  <script data-concat="false" src="/wp-content/themes/responsive-child/js/footer-menu.js">
+  </script>
+ </body>
+</html>
