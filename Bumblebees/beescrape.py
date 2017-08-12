@@ -23,21 +23,37 @@ class XercesScraper:
         return response.json()
 
     def parse_sightings(self, data):
-        # # TODO clean up response JSON, only keeping bee_id, common_name, floral_host,
-        # #      latitude, longitude, and dateidentified
+
+        # Make list of dictionary keys to be kept
         keepers = ["bee_id", "common_name", "floral_host", "latitude",
                    "longitude", "dateidentified"]
-        data = {k:v for k in data["data"]["data"][0].items() if k in keepers}
-        return data
+
+        # temporary container for bee ids on a particular page
+        tmp_list = []
+        # for each observation
+        for entry in data["data"]["data"]:
+            keeper_attrs = {}
+            # for the details in that observation
+            for elmnt in entry:
+                # if the details are what we want, but the k:v in a list
+                if elmnt in keepers:
+                    keeper_attrs[elmnt] = entry[elmnt]
+            # make a key from bee_id so it will be unique across pages/observations
+            data = {entry["bee_id"]:keeper_attrs}
+            tmp_list.append(data)
+        return tmp_list
 
     def run(self):
         for page in range(1,17):
-            # Retrieve data for page
+            # Retrieve data for the page
             data = self.get_bee_sightings(self.API_url_front + str(page) + self.API_url_back)
             print ('scraped page {}'.format(str(page)))
+            # parse the data, returning desired attributes
             keeper_data = self.parse_sightings(data)
-            print(keeper_data)
-            self.scraped_pages.append(keeper_data)
+            print ("Keeper data for page {}: ".format(str(page)))
+            print (keeper_data)
+            # extend scraped_pages (rather than append) to eliminate the [] from each page's tmp_list
+            self.scraped_pages.extend(keeper_data)
 
         self.save_data()
 
