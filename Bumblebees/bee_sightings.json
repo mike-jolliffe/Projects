@@ -1,18 +1,4468 @@
 [
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {}
+  {
+    "21041": {
+      "bee_id": 21041,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2017-08-05 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": null,
+      "latitude": "45.524403",
+      "longitude": "-122.637095"
+    }
+  },
+  {
+    "20632": {
+      "bee_id": 20632,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2017-08-08 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Joe Pyle weed",
+      "latitude": "45.494031",
+      "longitude": "-122.427821"
+    }
+  },
+  {
+    "20423": {
+      "bee_id": 20423,
+      "common_name": "Obscure bumble bee",
+      "dateidentified": {
+        "date": "2017-08-06 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": null,
+      "latitude": "45.584405",
+      "longitude": "-122.723538"
+    }
+  },
+  {
+    "20263": {
+      "bee_id": 20263,
+      "common_name": "Bumble bee",
+      "dateidentified": {
+        "date": "2017-08-03 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Aster Douglasii",
+      "latitude": "45.494263",
+      "longitude": "-122.427542"
+    }
+  },
+  {
+    "19923": {
+      "bee_id": 19923,
+      "common_name": "Bumble bee",
+      "dateidentified": {
+        "date": "2017-07-27 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "",
+      "latitude": "45.539996",
+      "longitude": "-122.571588"
+    }
+  },
+  {
+    "19831": {
+      "bee_id": 19831,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2017-07-15 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Sedum spp.",
+      "latitude": "45.500361",
+      "longitude": "-122.614319"
+    }
+  },
+  {
+    "19826": {
+      "bee_id": 19826,
+      "common_name": "Bumble bee",
+      "dateidentified": {
+        "date": "2017-07-14 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Bachelor buttons, rocket larkspur",
+      "latitude": "45.489743",
+      "longitude": "-122.610284"
+    }
+  },
+  {
+    "19694": {
+      "bee_id": 19694,
+      "common_name": "Bumble bee",
+      "dateidentified": {
+        "date": "2017-07-27 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Tomato plants",
+      "latitude": "45.537387",
+      "longitude": "-122.603281"
+    }
+  },
+  {
+    "19653": {
+      "bee_id": 19653,
+      "common_name": "Common eastern bumble bee",
+      "dateidentified": {
+        "date": "2017-07-26 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Balfour Impatien",
+      "latitude": "45.551751",
+      "longitude": "-122.620125"
+    }
+  },
+  {
+    "18976": {
+      "bee_id": 18976,
+      "common_name": "Yellow bumble bee",
+      "dateidentified": {
+        "date": "2017-07-12 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Zinnia",
+      "latitude": "45.462434",
+      "longitude": "-122.408183"
+    }
+  },
+  {
+    "18957": {
+      "bee_id": 18957,
+      "common_name": "Indiscriminant cuckoo bumble bee",
+      "dateidentified": {
+        "date": "2017-07-11 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "lavender",
+      "latitude": "45.533844",
+      "longitude": "-122.708488"
+    }
+  },
+  {
+    "18949": {
+      "bee_id": 18949,
+      "common_name": "Bumble bee",
+      "dateidentified": {
+        "date": "2017-07-07 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Lavender",
+      "latitude": "45.538536",
+      "longitude": "-122.603517"
+    }
+  },
+  {
+    "18882": {
+      "bee_id": 18882,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2017-07-07 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "daisy, perhaps non-native",
+      "latitude": "45.489315",
+      "longitude": "-122.507107"
+    }
+  },
+  {
+    "18789": {
+      "bee_id": 18789,
+      "common_name": "Yellow bumble bee",
+      "dateidentified": {
+        "date": "2017-07-05 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Rose shrub",
+      "latitude": "45.442248",
+      "longitude": "-122.734499"
+    }
+  },
+  {
+    "18773": {
+      "bee_id": 18773,
+      "common_name": "Lemon cuckoo bumble bee",
+      "dateidentified": {
+        "date": "2017-07-04 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "lavendar",
+      "latitude": "45.519303",
+      "longitude": "-122.605770"
+    }
+  },
+  {
+    "18772": {
+      "bee_id": 18772,
+      "common_name": "Two-form bumble bee",
+      "dateidentified": {
+        "date": "2017-07-04 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Lavendar and Calendula",
+      "latitude": "45.519243",
+      "longitude": "-122.605512"
+    }
+  },
+  {
+    "18771": {
+      "bee_id": 18771,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2017-07-04 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Rose",
+      "latitude": "45.523062",
+      "longitude": "-122.676482"
+    }
+  },
+  {
+    "18770": {
+      "bee_id": 18770,
+      "common_name": "Yellow bumble bee",
+      "dateidentified": {
+        "date": "2017-07-04 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Hypericum",
+      "latitude": "45.523062",
+      "longitude": "-122.676482"
+    }
+  },
+  {
+    "18769": {
+      "bee_id": 18769,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2017-07-04 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Lavendar",
+      "latitude": "45.523062",
+      "longitude": "-122.676482"
+    }
+  },
+  {
+    "18768": {
+      "bee_id": 18768,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2017-07-04 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Spirea",
+      "latitude": "45.523062",
+      "longitude": "-122.676482"
+    }
+  },
+  {
+    "18766": {
+      "bee_id": 18766,
+      "common_name": "Yellow bumble bee",
+      "dateidentified": {
+        "date": "2017-07-04 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "California Poppy",
+      "latitude": "45.519508",
+      "longitude": "-122.605662"
+    }
+  },
+  {
+    "18632": {
+      "bee_id": 18632,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2017-07-02 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Bee balm",
+      "latitude": "45.523062",
+      "longitude": "-122.676482"
+    }
+  },
+  {
+    "18595": {
+      "bee_id": 18595,
+      "common_name": "White-shouldered bumble bee",
+      "dateidentified": {
+        "date": "2017-06-29 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Vetch",
+      "latitude": "45.535415",
+      "longitude": "-122.304904"
+    }
+  },
+  {
+    "18593": {
+      "bee_id": 18593,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2017-06-29 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Blackberry",
+      "latitude": "45.535415",
+      "longitude": "-122.304904"
+    }
+  },
+  {
+    "18592": {
+      "bee_id": 18592,
+      "common_name": "Yellow bumble bee",
+      "dateidentified": {
+        "date": "2017-06-29 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Vetch",
+      "latitude": "45.535415",
+      "longitude": "-122.304904"
+    }
+  },
+  {
+    "18591": {
+      "bee_id": 18591,
+      "common_name": "Yellow head bumble bee",
+      "dateidentified": {
+        "date": "2017-06-29 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Blackberry",
+      "latitude": "45.535415",
+      "longitude": "-122.304904"
+    }
+  },
+  {
+    "18590": {
+      "bee_id": 18590,
+      "common_name": "Fuzzy-horned bumble bee",
+      "dateidentified": {
+        "date": "2017-06-29 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Blackberry",
+      "latitude": "45.535415",
+      "longitude": "-122.304904"
+    }
+  },
+  {
+    "18576": {
+      "bee_id": 18576,
+      "common_name": "Yellow head bumble bee",
+      "dateidentified": {
+        "date": "2017-06-29 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Phacelia",
+      "latitude": "45.581211",
+      "longitude": "-122.797297"
+    }
+  },
+  {
+    "18549": {
+      "bee_id": 18549,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2017-06-28 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Rose",
+      "latitude": "45.523062",
+      "longitude": "-122.676482"
+    }
+  },
+  {
+    "18548": {
+      "bee_id": 18548,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2017-06-28 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Hypericum",
+      "latitude": "45.523062",
+      "longitude": "-122.676482"
+    }
+  },
+  {
+    "18547": {
+      "bee_id": 18547,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2017-06-28 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Spirea",
+      "latitude": "45.523062",
+      "longitude": "-122.676482"
+    }
+  },
+  {
+    "18543": {
+      "bee_id": 18543,
+      "common_name": "Yellow bumble bee",
+      "dateidentified": {
+        "date": "2017-06-27 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Lavender",
+      "latitude": "45.500112",
+      "longitude": "-122.611958"
+    }
+  },
+  {
+    "18530": {
+      "bee_id": 18530,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2017-06-25 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "",
+      "latitude": "45.513923",
+      "longitude": "-122.595760"
+    }
+  },
+  {
+    "18502": {
+      "bee_id": 18502,
+      "common_name": "Crotch bumble bee",
+      "dateidentified": {
+        "date": "2017-06-26 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Hypericum",
+      "latitude": "45.523062",
+      "longitude": "-122.676482"
+    }
+  },
+  {
+    "18501": {
+      "bee_id": 18501,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2017-06-26 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Hypericum",
+      "latitude": "45.523062",
+      "longitude": "-122.676482"
+    }
+  },
+  {
+    "18500": {
+      "bee_id": 18500,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2017-06-26 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Spirea",
+      "latitude": "45.523062",
+      "longitude": "-122.676482"
+    }
+  },
+  {
+    "18465": {
+      "bee_id": 18465,
+      "common_name": "Fuzzy-horned bumble bee",
+      "dateidentified": {
+        "date": "2017-06-25 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Lavender",
+      "latitude": "45.537296",
+      "longitude": "-122.603495"
+    }
+  },
+  {
+    "18452": {
+      "bee_id": 18452,
+      "common_name": "Black-tailed bumble bee",
+      "dateidentified": {
+        "date": "2017-06-06 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Foxglove",
+      "latitude": "45.462941",
+      "longitude": "-122.650914"
+    }
+  },
+  {
+    "18449": {
+      "bee_id": 18449,
+      "common_name": "Yellow head bumble bee",
+      "dateidentified": {
+        "date": "2017-06-03 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Waterleaf",
+      "latitude": "45.440461",
+      "longitude": "-122.678207"
+    }
+  },
+  {
+    "18444": {
+      "bee_id": 18444,
+      "common_name": "Black-tailed bumble bee",
+      "dateidentified": {
+        "date": "2017-06-02 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "",
+      "latitude": "45.473790",
+      "longitude": "-122.621482"
+    }
+  },
+  {
+    "18369": {
+      "bee_id": 18369,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2017-06-22 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Rose",
+      "latitude": "45.523062",
+      "longitude": "-122.676482"
+    }
+  },
+  {
+    "18368": {
+      "bee_id": 18368,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2017-06-22 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Hypericum",
+      "latitude": "45.523062",
+      "longitude": "-122.676482"
+    }
+  },
+  {
+    "18361": {
+      "bee_id": 18361,
+      "common_name": "Bumble bee",
+      "dateidentified": {
+        "date": "2017-06-21 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "California Poppy",
+      "latitude": "45.501132",
+      "longitude": "-122.640381"
+    }
+  },
+  {
+    "18359": {
+      "bee_id": 18359,
+      "common_name": "Bumble bee",
+      "dateidentified": {
+        "date": "2017-06-21 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Lavender",
+      "latitude": "45.537387",
+      "longitude": "-122.603281"
+    }
+  },
+  {
+    "18355": {
+      "bee_id": 18355,
+      "common_name": "Black-tailed bumble bee",
+      "dateidentified": {
+        "date": "2017-06-20 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "",
+      "latitude": "45.500112",
+      "longitude": "-122.611958"
+    }
+  },
+  {
+    "18255": {
+      "bee_id": 18255,
+      "common_name": "American bumble bee",
+      "dateidentified": {
+        "date": "2017-06-19 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Spirea",
+      "latitude": "45.462434",
+      "longitude": "-122.408183"
+    }
+  },
+  {
+    "18188": {
+      "bee_id": 18188,
+      "common_name": "Western bumble bee",
+      "dateidentified": {
+        "date": "2017-06-17 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Hardy geranium",
+      "latitude": "45.462434",
+      "longitude": "-122.408183"
+    }
+  },
+  {
+    "18178": {
+      "bee_id": 18178,
+      "common_name": "Two-form bumble bee",
+      "dateidentified": {
+        "date": "2017-06-17 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Blackberry",
+      "latitude": "45.462434",
+      "longitude": "-122.408183"
+    }
+  },
+  {
+    "18174": {
+      "bee_id": 18174,
+      "common_name": "Bumble bee",
+      "dateidentified": {
+        "date": "2017-06-16 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "",
+      "latitude": "45.564774",
+      "longitude": "-122.670250"
+    }
+  },
+  {
+    "18081": {
+      "bee_id": 18081,
+      "common_name": "Fuzzy-horned bumble bee",
+      "dateidentified": {
+        "date": "2017-06-12 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": null,
+      "latitude": "45.490793",
+      "longitude": "-122.723385"
+    }
+  },
+  {
+    "17979": {
+      "bee_id": 17979,
+      "common_name": "Black-tailed bumble bee",
+      "dateidentified": {
+        "date": "2017-06-06 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Nepeta \"Walkers Low\"",
+      "latitude": "45.470125",
+      "longitude": "-122.711897"
+    }
+  },
+  {
+    "17917": {
+      "bee_id": 17917,
+      "common_name": "Yellow head bumble bee",
+      "dateidentified": {
+        "date": "2017-06-07 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Vetch",
+      "latitude": "45.535267",
+      "longitude": "-122.305148"
+    }
+  },
+  {
+    "17915": {
+      "bee_id": 17915,
+      "common_name": "Obscure bumble bee",
+      "dateidentified": {
+        "date": "2017-06-07 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Blackberry",
+      "latitude": "45.535031",
+      "longitude": "-122.305453"
+    }
+  },
+  {
+    "17914": {
+      "bee_id": 17914,
+      "common_name": "Fuzzy-horned bumble bee",
+      "dateidentified": {
+        "date": "2017-06-07 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Blackberry",
+      "latitude": "45.535057",
+      "longitude": "-122.305276"
+    }
+  },
+  {
+    "17913": {
+      "bee_id": 17913,
+      "common_name": "Black-tailed bumble bee",
+      "dateidentified": {
+        "date": "2017-06-07 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Blackberry",
+      "latitude": "45.535177",
+      "longitude": "-122.305191"
+    }
+  },
+  {
+    "17912": {
+      "bee_id": 17912,
+      "common_name": "Yellow bumble bee",
+      "dateidentified": {
+        "date": "2017-06-07 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Vetch",
+      "latitude": "45.535090",
+      "longitude": "-122.305394"
+    }
+  },
+  {
+    "17911": {
+      "bee_id": 17911,
+      "common_name": "Obscure bumble bee",
+      "dateidentified": {
+        "date": "2017-06-07 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Vetch",
+      "latitude": "45.535118",
+      "longitude": "-122.305440"
+    }
+  },
+  {
+    "17870": {
+      "bee_id": 17870,
+      "common_name": "Bumble bee",
+      "dateidentified": {
+        "date": "2017-06-06 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "",
+      "latitude": "45.477426",
+      "longitude": "-122.676557"
+    }
+  },
+  {
+    "17855": {
+      "bee_id": 17855,
+      "common_name": "Bumble bee",
+      "dateidentified": {
+        "date": "2017-06-05 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "",
+      "latitude": "45.477448",
+      "longitude": "-122.676687"
+    }
+  },
+  {
+    "17836": {
+      "bee_id": 17836,
+      "common_name": "Bumble bee",
+      "dateidentified": {
+        "date": "2017-06-04 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Japanese iris",
+      "latitude": "45.526218",
+      "longitude": "-122.624617"
+    }
+  },
+  {
+    "17794": {
+      "bee_id": 17794,
+      "common_name": "Fuzzy-horned bumble bee",
+      "dateidentified": {
+        "date": "2017-06-03 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": null,
+      "latitude": "45.490251",
+      "longitude": "-122.722565"
+    }
+  },
+  {
+    "17780": {
+      "bee_id": 17780,
+      "common_name": "Black-tailed bumble bee",
+      "dateidentified": {
+        "date": "2017-06-02 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Big leaf lupine",
+      "latitude": "45.645378",
+      "longitude": "-122.816866"
+    }
+  },
+  {
+    "17709": {
+      "bee_id": 17709,
+      "common_name": "Bumble bee",
+      "dateidentified": {
+        "date": "2017-05-29 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Rosa rugosa  'Moje Hammarberg'",
+      "latitude": "45.5202566",
+      "longitude": "-122.6106757"
+    }
+  },
+  {
+    "17629": {
+      "bee_id": 17629,
+      "common_name": "Yellow bumble bee",
+      "dateidentified": {
+        "date": "2017-05-26 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Lupinus polyphyllus",
+      "latitude": "45.63311",
+      "longitude": "-122.80946"
+    }
+  },
+  {
+    "17628": {
+      "bee_id": 17628,
+      "common_name": "Black-tailed bumble bee",
+      "dateidentified": {
+        "date": "2017-05-26 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Lupinus polyphyllus",
+      "latitude": "45.63311",
+      "longitude": "-122.80946"
+    }
+  },
+  {
+    "17594": {
+      "bee_id": 17594,
+      "common_name": "Yellow bumble bee",
+      "dateidentified": {
+        "date": "2017-05-26 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": null,
+      "latitude": "45.582562",
+      "longitude": "-122.535462"
+    }
+  },
+  {
+    "17593": {
+      "bee_id": 17593,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2017-05-14 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "",
+      "latitude": "45.473790",
+      "longitude": "-122.621482"
+    }
+  },
+  {
+    "17592": {
+      "bee_id": 17592,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2017-05-14 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "wisteria",
+      "latitude": "45.473790",
+      "longitude": "-122.621482"
+    }
+  },
+  {
+    "17591": {
+      "bee_id": 17591,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2017-05-24 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "comfrey",
+      "latitude": "45.473790",
+      "longitude": "-122.621482"
+    }
+  },
+  {
+    "17557": {
+      "bee_id": 17557,
+      "common_name": "Bombus frigidus",
+      "dateidentified": {
+        "date": "2017-05-22 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Lavender",
+      "latitude": "45.467963",
+      "longitude": "-122.690146"
+    }
+  },
+  {
+    "17496": {
+      "bee_id": 17496,
+      "common_name": "Fuzzy-horned bumble bee",
+      "dateidentified": {
+        "date": "2017-05-20 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": null,
+      "latitude": "45.489922",
+      "longitude": "-122.722331"
+    }
+  },
+  {
+    "17409": {
+      "bee_id": 17409,
+      "common_name": "Obscure bumble bee",
+      "dateidentified": {
+        "date": "2017-05-12 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Fringe cup Tellima grandiflora",
+      "latitude": "45.604285",
+      "longitude": "-122.043171"
+    }
+  },
+  {
+    "17335": {
+      "bee_id": 17335,
+      "common_name": "Obscure bumble bee",
+      "dateidentified": {
+        "date": "2017-05-04 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Comfrey (Sympytum officinale)",
+      "latitude": "45.566998",
+      "longitude": "-122.606840"
+    }
+  },
+  {
+    "17276": {
+      "bee_id": 17276,
+      "common_name": "Obscure bumble bee",
+      "dateidentified": {
+        "date": "2017-05-03 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Blueberry",
+      "latitude": "45.604285",
+      "longitude": "-122.043171"
+    }
+  },
+  {
+    "17207": {
+      "bee_id": 17207,
+      "common_name": "Bombus frigidus",
+      "dateidentified": {
+        "date": "2017-04-27 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Rhododendron",
+      "latitude": "45.508665",
+      "longitude": "-122.446443"
+    }
+  },
+  {
+    "17137": {
+      "bee_id": 17137,
+      "common_name": "Two-form bumble bee",
+      "dateidentified": {
+        "date": "2017-04-03 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Indian plum, Oemleria cerasiformis",
+      "latitude": "45.604285",
+      "longitude": "-122.043171"
+    }
+  },
+  {
+    "16989": {
+      "bee_id": 16989,
+      "common_name": "Yellow bumble bee",
+      "dateidentified": {
+        "date": "2017-03-28 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Close to perris japonica",
+      "latitude": "45.534994",
+      "longitude": "-122.671395"
+    }
+  },
+  {
+    "16684": {
+      "bee_id": 16684,
+      "common_name": "Bumble bee",
+      "dateidentified": {
+        "date": "2016-05-04 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Lupinus rivularis",
+      "latitude": "45.484053",
+      "longitude": "-122.501088"
+    }
+  },
+  {
+    "16683": {
+      "bee_id": 16683,
+      "common_name": "Bumble bee",
+      "dateidentified": {
+        "date": "2016-05-04 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Lupinus rivularis",
+      "latitude": "45.484080",
+      "longitude": "-122.500970"
+    }
+  },
+  {
+    "16679": {
+      "bee_id": 16679,
+      "common_name": "Bumble bee",
+      "dateidentified": {
+        "date": "2016-05-04 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Lupinus rivularis",
+      "latitude": "45.484610",
+      "longitude": "-122.500573"
+    }
+  },
+  {
+    "16670": {
+      "bee_id": 16670,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2016-09-15 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "On ground, searching leaf litter.",
+      "latitude": "45.456810",
+      "longitude": "-122.664236"
+    }
+  },
+  {
+    "16669": {
+      "bee_id": 16669,
+      "common_name": "Bumble bee",
+      "dateidentified": {
+        "date": "2016-08-05 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Cirsium vulgare",
+      "latitude": "45.471294",
+      "longitude": "-122.641057"
+    }
+  },
+  {
+    "15562": {
+      "bee_id": 15562,
+      "common_name": "Bumble bee",
+      "dateidentified": {
+        "date": "2016-08-01 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Canada goldenrod",
+      "latitude": "45.63267",
+      "longitude": "-122.80954"
+    }
+  },
+  {
+    "15454": {
+      "bee_id": 15454,
+      "common_name": "Bumble bee",
+      "dateidentified": {
+        "date": "2016-08-22 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Lavender",
+      "latitude": "45.442212",
+      "longitude": "-122.734485"
+    }
+  },
+  {
+    "15437": {
+      "bee_id": 15437,
+      "common_name": "Yellow bumble bee",
+      "dateidentified": {
+        "date": "2016-08-22 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "",
+      "latitude": "45.486555",
+      "longitude": "-122.598255"
+    }
+  },
+  {
+    "14806": {
+      "bee_id": 14806,
+      "common_name": "Bumble bee",
+      "dateidentified": {
+        "date": "2016-08-14 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Showy milkweed",
+      "latitude": "45.595934",
+      "longitude": "-122.739950"
+    }
+  },
+  {
+    "13117": {
+      "bee_id": 13117,
+      "common_name": "Bumble bee",
+      "dateidentified": {
+        "date": "2016-07-10 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": null,
+      "latitude": "45.515529",
+      "longitude": "-122.705483"
+    }
+  },
+  {
+    "11317": {
+      "bee_id": 11317,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2016-07-16 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Echinacea purpurea",
+      "latitude": "45.489743",
+      "longitude": "-122.610284"
+    }
+  },
+  {
+    "11175": {
+      "bee_id": 11175,
+      "common_name": "Fuzzy-horned bumble bee",
+      "dateidentified": {
+        "date": "2016-07-04 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Lavender",
+      "latitude": "45.544292",
+      "longitude": "-122.623356"
+    }
+  },
+  {
+    "11142": {
+      "bee_id": 11142,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2016-07-10 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Lavender",
+      "latitude": "45.502335",
+      "longitude": "-122.596406"
+    }
+  },
+  {
+    "11084": {
+      "bee_id": 11084,
+      "common_name": "Indiscriminant cuckoo bumble bee",
+      "dateidentified": {
+        "date": "2016-07-08 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Oregano",
+      "latitude": "45.546794",
+      "longitude": "-122.611354"
+    }
+  },
+  {
+    "11033": {
+      "bee_id": 11033,
+      "common_name": "White-shouldered bumble bee",
+      "dateidentified": {
+        "date": "2016-07-03 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Dwarf Germander (Teucrium chamaedrys 'Nanum')",
+      "latitude": "45.501079",
+      "longitude": "-122.598550"
+    }
+  },
+  {
+    "10878": {
+      "bee_id": 10878,
+      "common_name": "Yellow bumble bee",
+      "dateidentified": {
+        "date": "2016-06-30 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Crimson clover",
+      "latitude": "45.505809",
+      "longitude": "-122.629308"
+    }
+  },
+  {
+    "10864": {
+      "bee_id": 10864,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2016-06-29 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "lavendar",
+      "latitude": "45.540274",
+      "longitude": "-122.571636"
+    }
+  },
+  {
+    "10801": {
+      "bee_id": 10801,
+      "common_name": "Bumble bee",
+      "dateidentified": {
+        "date": "2016-06-26 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Clover",
+      "latitude": "45.467941",
+      "longitude": "-122.660133"
+    }
+  },
+  {
+    "10799": {
+      "bee_id": 10799,
+      "common_name": "Bumble bee",
+      "dateidentified": {
+        "date": "2016-06-26 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Succulent",
+      "latitude": "45.477504",
+      "longitude": "-122.676493"
+    }
+  },
+  {
+    "10750": {
+      "bee_id": 10750,
+      "common_name": "Yellow bumble bee",
+      "dateidentified": {
+        "date": "2016-06-25 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Garlic",
+      "latitude": "45.442212",
+      "longitude": "-122.734485"
+    }
+  },
+  {
+    "10646": {
+      "bee_id": 10646,
+      "common_name": "Bumble bee",
+      "dateidentified": {
+        "date": "2016-06-21 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "hollyhock",
+      "latitude": "45.526198",
+      "longitude": "-122.624624"
+    }
+  },
+  {
+    "10604": {
+      "bee_id": 10604,
+      "common_name": "Bumble bee",
+      "dateidentified": {
+        "date": "2016-06-19 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "",
+      "latitude": "45.472481",
+      "longitude": "-122.734336"
+    }
+  },
+  {
+    "10593": {
+      "bee_id": 10593,
+      "common_name": "Bumble bee",
+      "dateidentified": {
+        "date": "2016-06-19 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "",
+      "latitude": "45.472481",
+      "longitude": "-122.734336"
+    }
+  },
+  {
+    "10564": {
+      "bee_id": 10564,
+      "common_name": "Bumble bee",
+      "dateidentified": {
+        "date": "2016-06-17 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Jasmine vine",
+      "latitude": "45.477504",
+      "longitude": "-122.676493"
+    }
+  },
+  {
+    "10497": {
+      "bee_id": 10497,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2016-06-11 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Ornamental Spirea",
+      "latitude": "45.502971",
+      "longitude": "-122.596556"
+    }
+  },
+  {
+    "10496": {
+      "bee_id": 10496,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2016-06-11 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Lavender",
+      "latitude": "45.503220",
+      "longitude": "-122.598074"
+    }
+  },
+  {
+    "10417": {
+      "bee_id": 10417,
+      "common_name": "Bumble bee",
+      "dateidentified": {
+        "date": "2016-06-11 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "",
+      "latitude": "45.546944",
+      "longitude": "-122.612593"
+    }
+  },
+  {
+    "10416": {
+      "bee_id": 10416,
+      "common_name": "Bumble bee",
+      "dateidentified": {
+        "date": "2016-06-11 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Borage",
+      "latitude": "45.546794",
+      "longitude": "-122.611354"
+    }
+  },
+  {
+    "10414": {
+      "bee_id": 10414,
+      "common_name": "Obscure bumble bee",
+      "dateidentified": {
+        "date": "2016-05-29 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "California poppy",
+      "latitude": "45.546794",
+      "longitude": "-122.611354"
+    }
+  },
+  {
+    "10352": {
+      "bee_id": 10352,
+      "common_name": "Bumble bee",
+      "dateidentified": {
+        "date": "2016-06-07 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "",
+      "latitude": "45.511165",
+      "longitude": "-122.615318"
+    }
+  },
+  {
+    "10349": {
+      "bee_id": 10349,
+      "common_name": "Bumble bee",
+      "dateidentified": {
+        "date": "2016-06-07 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "",
+      "latitude": "45.512104",
+      "longitude": "-122.614594"
+    }
+  },
+  {
+    "10336": {
+      "bee_id": 10336,
+      "common_name": "Two-form bumble bee",
+      "dateidentified": {
+        "date": "2010-02-16 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "crocus",
+      "latitude": "45.476828",
+      "longitude": "-122.627786"
+    }
+  },
+  {
+    "10335": {
+      "bee_id": 10335,
+      "common_name": "Bumble bee",
+      "dateidentified": {
+        "date": "2010-02-16 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "crocus",
+      "latitude": "45.476828",
+      "longitude": "-122.627786"
+    }
+  },
+  {
+    "10212": {
+      "bee_id": 10212,
+      "common_name": "Red-belted bumble bee",
+      "dateidentified": {
+        "date": "2016-04-26 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Gayfeather(liatris)",
+      "latitude": "45.469596",
+      "longitude": "-122.461214"
+    }
+  },
+  {
+    "10079": {
+      "bee_id": 10079,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2016-05-23 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Penstemon",
+      "latitude": "45.501099",
+      "longitude": "-122.598537"
+    }
+  },
+  {
+    "10024": {
+      "bee_id": 10024,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2016-05-18 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Golden spirea",
+      "latitude": "45.499475",
+      "longitude": "-122.628579"
+    }
+  },
+  {
+    "9867": {
+      "bee_id": 9867,
+      "common_name": "Bumble bee",
+      "dateidentified": {
+        "date": "2016-05-18 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Sage",
+      "latitude": "45.523062",
+      "longitude": "-122.676482"
+    }
+  },
+  {
+    "9865": {
+      "bee_id": 9865,
+      "common_name": "Indiscriminant cuckoo bumble bee",
+      "dateidentified": {
+        "date": "2016-05-18 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "California Poppy ",
+      "latitude": "45.531178",
+      "longitude": "-122.608806"
+    }
+  },
+  {
+    "9812": {
+      "bee_id": 9812,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2016-05-03 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Pacific bleeding heart (Dicentra formosa)",
+      "latitude": "45.501344",
+      "longitude": "-122.598674"
+    }
+  },
+  {
+    "9790": {
+      "bee_id": 9790,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2016-05-13 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "",
+      "latitude": "45.442212",
+      "longitude": "-122.734485"
+    }
+  },
+  {
+    "9789": {
+      "bee_id": 9789,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2016-05-13 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "",
+      "latitude": "45.442212",
+      "longitude": "-122.734485"
+    }
+  },
+  {
+    "9786": {
+      "bee_id": 9786,
+      "common_name": "Brown-belted bumble bee",
+      "dateidentified": {
+        "date": "2016-05-11 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Plectritis",
+      "latitude": "45.582067",
+      "longitude": "-122.536279"
+    }
+  },
+  {
+    "9785": {
+      "bee_id": 9785,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2016-05-11 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Plectritis",
+      "latitude": "45.582067",
+      "longitude": "-122.536279"
+    }
+  },
+  {
+    "9705": {
+      "bee_id": 9705,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2016-03-04 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Ribes sanguineum  (red-flowering currant)",
+      "latitude": "45.544374",
+      "longitude": "-122.623419"
+    }
+  },
+  {
+    "9585": {
+      "bee_id": 9585,
+      "common_name": "Bumble bee",
+      "dateidentified": {
+        "date": "2016-04-30 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "",
+      "latitude": "45.442212",
+      "longitude": "-122.734485"
+    }
+  },
+  {
+    "9561": {
+      "bee_id": 9561,
+      "common_name": "Bumble bee",
+      "dateidentified": {
+        "date": "2016-05-01 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "",
+      "latitude": "45.474133",
+      "longitude": "-122.711954"
+    }
+  },
+  {
+    "9401": {
+      "bee_id": 9401,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2016-04-21 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "",
+      "latitude": "45.540274",
+      "longitude": "-122.571636"
+    }
+  },
+  {
+    "9389": {
+      "bee_id": 9389,
+      "common_name": "Black-tailed bumble bee",
+      "dateidentified": {
+        "date": "2016-04-17 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Salomon's Seal (Polygonatum)",
+      "latitude": "45.501237",
+      "longitude": "-122.598417"
+    }
+  },
+  {
+    "9091": {
+      "bee_id": 9091,
+      "common_name": "Black-tailed bumble bee",
+      "dateidentified": {
+        "date": "2016-03-10 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "",
+      "latitude": "45.537130",
+      "longitude": "-122.778098"
+    }
+  },
+  {
+    "9073": {
+      "bee_id": 9073,
+      "common_name": "Black-tailed bumble bee",
+      "dateidentified": {
+        "date": "2016-02-29 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "",
+      "latitude": "45.519136",
+      "longitude": "-122.706780"
+    }
+  },
+  {
+    "9039": {
+      "bee_id": 9039,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2015-07-02 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Coreopsis lanceolata",
+      "latitude": "45.489880",
+      "longitude": "-122.610284"
+    }
+  },
+  {
+    "9038": {
+      "bee_id": 9038,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2015-07-02 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Helianthus sp. (mammoth variety)",
+      "latitude": "45.489880",
+      "longitude": "-122.610284"
+    }
+  },
+  {
+    "9035": {
+      "bee_id": 9035,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2015-08-05 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Zinnia sp. (leaves)",
+      "latitude": "45.489880",
+      "longitude": "-122.610284"
+    }
+  },
+  {
+    "9034": {
+      "bee_id": 9034,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2015-08-05 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Cosmos bipinnata",
+      "latitude": "45.489880",
+      "longitude": "-122.610284"
+    }
+  },
+  {
+    "9033": {
+      "bee_id": 9033,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2015-07-06 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Cosmos bipinnata",
+      "latitude": "45.489880",
+      "longitude": "-122.610284"
+    }
+  },
+  {
+    "9032": {
+      "bee_id": 9032,
+      "common_name": "Bumble bee",
+      "dateidentified": {
+        "date": "2015-09-02 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Nicotiana sp.",
+      "latitude": "45.489880",
+      "longitude": "-122.610284"
+    }
+  },
+  {
+    "9031": {
+      "bee_id": 9031,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2015-07-26 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Penstemon sp. (UK variety)",
+      "latitude": "45.518774",
+      "longitude": "-122.611065"
+    }
+  },
+  {
+    "9030": {
+      "bee_id": 9030,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2015-06-20 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Eschscholzia californica",
+      "latitude": "45.489880",
+      "longitude": "-122.610284"
+    }
+  },
+  {
+    "9029": {
+      "bee_id": 9029,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2015-08-31 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Zinnia sp. (leaves)",
+      "latitude": "45.489880",
+      "longitude": "-122.610284"
+    }
+  },
+  {
+    "9028": {
+      "bee_id": 9028,
+      "common_name": "Yellow bumble bee",
+      "dateidentified": {
+        "date": "2015-08-22 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Delphinium sp. (native variety)",
+      "latitude": "45.489880",
+      "longitude": "-122.610284"
+    }
+  },
+  {
+    "9027": {
+      "bee_id": 9027,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2015-07-25 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Coreopsis tinctoria",
+      "latitude": "45.489880",
+      "longitude": "-122.610284"
+    }
+  },
+  {
+    "9026": {
+      "bee_id": 9026,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2015-07-26 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Gaillardia sp.",
+      "latitude": "45.518774",
+      "longitude": "-122.611065"
+    }
+  },
+  {
+    "9025": {
+      "bee_id": 9025,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2015-08-17 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Zinnia sp.",
+      "latitude": "45.489880",
+      "longitude": "-122.610284"
+    }
+  },
+  {
+    "9024": {
+      "bee_id": 9024,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2015-07-25 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Veronica sp. (UK variety)",
+      "latitude": "45.489880",
+      "longitude": "-122.610284"
+    }
+  },
+  {
+    "9023": {
+      "bee_id": 9023,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2015-07-25 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Echinacea purpurea 'Prairie Fire'",
+      "latitude": "45.489880",
+      "longitude": "-122.610284"
+    }
+  },
+  {
+    "9022": {
+      "bee_id": 9022,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2015-07-25 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Cosmos bipinnata",
+      "latitude": "45.489880",
+      "longitude": "-122.610284"
+    }
+  },
+  {
+    "9021": {
+      "bee_id": 9021,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2015-06-20 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Echinacea purpurea",
+      "latitude": "45.489880",
+      "longitude": "-122.610284"
+    }
+  },
+  {
+    "9020": {
+      "bee_id": 9020,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2015-05-19 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Ceanothus sp. (California lilac)",
+      "latitude": "45.489880",
+      "longitude": "-122.610284"
+    }
+  },
+  {
+    "9019": {
+      "bee_id": 9019,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2014-09-08 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Centaurea cyanus",
+      "latitude": "45.489880",
+      "longitude": "-122.610284"
+    }
+  },
+  {
+    "9018": {
+      "bee_id": 9018,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2016-02-07 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Daffodil (Narcissus sp.)",
+      "latitude": "45.518774",
+      "longitude": "-122.611065"
+    }
+  },
+  {
+    "8973": {
+      "bee_id": 8973,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2015-02-10 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Viburnum bodnantense 'Dawn'",
+      "latitude": "45.520253",
+      "longitude": "-122.608487"
+    }
+  },
+  {
+    "8968": {
+      "bee_id": 8968,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2015-08-24 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Dahlia 'Rosy Wings'",
+      "latitude": "45.472916",
+      "longitude": "-122.602648"
+    }
+  },
+  {
+    "8967": {
+      "bee_id": 8967,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2016-02-09 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Edgeworthia chrysantha",
+      "latitude": "45.520253",
+      "longitude": "-122.608487"
+    }
+  },
+  {
+    "8697": {
+      "bee_id": 8697,
+      "common_name": "Yellow bumble bee",
+      "dateidentified": {
+        "date": "2015-05-19 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Crimson clover (Trifolium incarnatum)",
+      "latitude": "45.489880",
+      "longitude": "-122.610284"
+    }
+  },
+  {
+    "8431": {
+      "bee_id": 8431,
+      "common_name": "High country bumble bee",
+      "dateidentified": {
+        "date": "2015-09-24 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Tomatillo",
+      "latitude": "45.529079",
+      "longitude": "-122.580697"
+    }
+  },
+  {
+    "8402": {
+      "bee_id": 8402,
+      "common_name": "Black-tailed bumble bee",
+      "dateidentified": {
+        "date": "2015-09-23 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Sunflower",
+      "latitude": "45.482731",
+      "longitude": "-122.732472"
+    }
+  },
+  {
+    "8222": {
+      "bee_id": 8222,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2015-09-12 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Zinnia Elegans",
+      "latitude": "45.558595",
+      "longitude": "-122.691596"
+    }
+  },
+  {
+    "8221": {
+      "bee_id": 8221,
+      "common_name": "Black-tailed bumble bee",
+      "dateidentified": {
+        "date": "2015-09-13 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Zinnia Elegans",
+      "latitude": "45.523062",
+      "longitude": "-122.676482"
+    }
+  },
+  {
+    "8182": {
+      "bee_id": 8182,
+      "common_name": "Black-tailed bumble bee",
+      "dateidentified": {
+        "date": "2015-09-15 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "",
+      "latitude": "45.512260",
+      "longitude": "-122.610568"
+    }
+  },
+  {
+    "7751": {
+      "bee_id": 7751,
+      "common_name": "Black-tailed bumble bee",
+      "dateidentified": {
+        "date": "2015-08-22 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Cultivated Rose",
+      "latitude": "45.490740",
+      "longitude": "-122.723165"
+    }
+  },
+  {
+    "7324": {
+      "bee_id": 7324,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2015-08-08 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Composites, bee balm",
+      "latitude": "45.509784",
+      "longitude": "-122.715322"
+    }
+  },
+  {
+    "7323": {
+      "bee_id": 7323,
+      "common_name": "White-shouldered bumble bee",
+      "dateidentified": {
+        "date": "2015-05-17 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "",
+      "latitude": "45.509784",
+      "longitude": "-122.715322"
+    }
+  },
+  {
+    "7037": {
+      "bee_id": 7037,
+      "common_name": "Yellow-faced group",
+      "dateidentified": {
+        "date": "2015-08-02 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "",
+      "latitude": "45.498773",
+      "longitude": "-122.632484"
+    }
+  },
+  {
+    "6616": {
+      "bee_id": 6616,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2015-07-09 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Grosso lavendar",
+      "latitude": "45.524905",
+      "longitude": "-122.581759"
+    }
+  },
+  {
+    "6449": {
+      "bee_id": 6449,
+      "common_name": "Bumble bee",
+      "dateidentified": {
+        "date": "2015-07-18 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "lavender",
+      "latitude": "45.523062",
+      "longitude": "-122.676482"
+    }
+  },
+  {
+    "6399": {
+      "bee_id": 6399,
+      "common_name": "Bumble bee",
+      "dateidentified": {
+        "date": "2015-07-11 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "",
+      "latitude": "45.498383",
+      "longitude": "-122.629603"
+    }
+  },
+  {
+    "6388": {
+      "bee_id": 6388,
+      "common_name": "Yellow bumble bee",
+      "dateidentified": {
+        "date": "2015-07-15 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "",
+      "latitude": "45.526198",
+      "longitude": "-122.624624"
+    }
+  },
+  {
+    "6223": {
+      "bee_id": 6223,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2015-05-15 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Sea Pink, Spanish Lavender, Yellow Monkey Flower",
+      "latitude": "45.532278",
+      "longitude": "-122.584553"
+    }
+  },
+  {
+    "6052": {
+      "bee_id": 6052,
+      "common_name": "Bumble bee",
+      "dateidentified": {
+        "date": "2015-06-25 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Some sort of wildflower",
+      "latitude": "45.442212",
+      "longitude": "-122.734485"
+    }
+  },
+  {
+    "5913": {
+      "bee_id": 5913,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2015-06-25 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Lavender",
+      "latitude": "45.556191",
+      "longitude": "-122.637188"
+    }
+  },
+  {
+    "5908": {
+      "bee_id": 5908,
+      "common_name": "Indiscriminant cuckoo bumble bee",
+      "dateidentified": {
+        "date": "2015-07-01 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "cosmos",
+      "latitude": "45.552416",
+      "longitude": "-122.659288"
+    }
+  },
+  {
+    "5801": {
+      "bee_id": 5801,
+      "common_name": "Fuzzy-horned bumble bee",
+      "dateidentified": {
+        "date": "2015-06-21 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "fireweed",
+      "latitude": "45.514792",
+      "longitude": "-122.570188"
+    }
+  },
+  {
+    "5791": {
+      "bee_id": 5791,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2015-06-20 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Borage , cosmos",
+      "latitude": "45.552416",
+      "longitude": "-122.659288"
+    }
+  },
+  {
+    "5787": {
+      "bee_id": 5787,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2015-06-20 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Eggplant ",
+      "latitude": "45.556191",
+      "longitude": "-122.637188"
+    }
+  },
+  {
+    "5769": {
+      "bee_id": 5769,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2015-06-21 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Bumblebee Asteria",
+      "latitude": "45.513122",
+      "longitude": "-122.601564"
+    }
+  },
+  {
+    "5716": {
+      "bee_id": 5716,
+      "common_name": "Hunt's bumble bee",
+      "dateidentified": {
+        "date": "2015-06-18 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Borage",
+      "latitude": "45.552416",
+      "longitude": "-122.659288"
+    }
+  },
+  {
+    "5715": {
+      "bee_id": 5715,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2015-06-18 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Borage",
+      "latitude": "45.552416",
+      "longitude": "-122.659288"
+    }
+  },
+  {
+    "5714": {
+      "bee_id": 5714,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2015-06-16 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Borage",
+      "latitude": "45.552416",
+      "longitude": "-122.659288"
+    }
+  },
+  {
+    "5646": {
+      "bee_id": 5646,
+      "common_name": "Bumble bee",
+      "dateidentified": {
+        "date": "2015-06-13 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Borage",
+      "latitude": "45.552416",
+      "longitude": "-122.659288"
+    }
+  },
+  {
+    "5633": {
+      "bee_id": 5633,
+      "common_name": "Black-tailed bumble bee",
+      "dateidentified": {
+        "date": "2015-05-05 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "",
+      "latitude": "45.439543",
+      "longitude": "-122.735481"
+    }
+  },
+  {
+    "5617": {
+      "bee_id": 5617,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2015-06-10 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "",
+      "latitude": "45.542913",
+      "longitude": "-122.636270"
+    }
+  },
+  {
+    "5575": {
+      "bee_id": 5575,
+      "common_name": "Bumble bee",
+      "dateidentified": {
+        "date": "2015-06-08 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "",
+      "latitude": "45.542913",
+      "longitude": "-122.636270"
+    }
+  },
+  {
+    "5551": {
+      "bee_id": 5551,
+      "common_name": "Yellow-faced group",
+      "dateidentified": {
+        "date": "2015-06-05 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Himalayan blackberry",
+      "latitude": "45.511177",
+      "longitude": "-122.598980"
+    }
+  },
+  {
+    "5454": {
+      "bee_id": 5454,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2015-05-30 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "California poppy",
+      "latitude": "45.515519",
+      "longitude": "-122.617260"
+    }
+  },
+  {
+    "5453": {
+      "bee_id": 5453,
+      "common_name": "Yellow-faced group",
+      "dateidentified": {
+        "date": "2015-05-30 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "",
+      "latitude": "45.514534",
+      "longitude": "-122.619798"
+    }
+  },
+  {
+    "5431": {
+      "bee_id": 5431,
+      "common_name": "Black-tailed bumble bee",
+      "dateidentified": {
+        "date": "2015-05-20 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Raspberry?",
+      "latitude": "45.553485",
+      "longitude": "-122.616907"
+    }
+  },
+  {
+    "5421": {
+      "bee_id": 5421,
+      "common_name": "Yellow-faced group",
+      "dateidentified": {
+        "date": "2015-05-27 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Vicia americana",
+      "latitude": "45.544511",
+      "longitude": "-122.575816"
+    }
+  },
+  {
+    "5390": {
+      "bee_id": 5390,
+      "common_name": "Bumble bee",
+      "dateidentified": {
+        "date": "2015-05-25 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Himalayan blackberry",
+      "latitude": "45.498854",
+      "longitude": "-122.558738"
+    }
+  },
+  {
+    "5388": {
+      "bee_id": 5388,
+      "common_name": "Yellow head bumble bee",
+      "dateidentified": {
+        "date": "2015-05-24 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Nepeta x faassenii and Heuchera sanguinium",
+      "latitude": "45.470119",
+      "longitude": "-122.711872"
+    }
+  },
+  {
+    "5269": {
+      "bee_id": 5269,
+      "common_name": "Black-tailed bumble bee",
+      "dateidentified": {
+        "date": "2015-05-18 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Ceanothus sp.",
+      "latitude": "45.496282",
+      "longitude": "-122.715542"
+    }
+  },
+  {
+    "5268": {
+      "bee_id": 5268,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2015-05-18 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Ceanothus sp.",
+      "latitude": "45.496282",
+      "longitude": "-122.715542"
+    }
+  },
+  {
+    "5267": {
+      "bee_id": 5267,
+      "common_name": "Fuzzy-horned bumble bee",
+      "dateidentified": {
+        "date": "2015-05-18 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Ceanothus sp.",
+      "latitude": "45.496282",
+      "longitude": "-122.715542"
+    }
+  },
+  {
+    "5266": {
+      "bee_id": 5266,
+      "common_name": "Yellow head bumble bee",
+      "dateidentified": {
+        "date": "2015-05-18 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Ceanothus sp.",
+      "latitude": "45.496282",
+      "longitude": "-122.715542"
+    }
+  },
+  {
+    "5217": {
+      "bee_id": 5217,
+      "common_name": "Yellow-faced group",
+      "dateidentified": {
+        "date": "2015-05-10 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Some sort of Dogwood",
+      "latitude": "45.518496",
+      "longitude": "-122.705612"
+    }
+  },
+  {
+    "5214": {
+      "bee_id": 5214,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2015-05-10 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Penstemon so.",
+      "latitude": "45.515968",
+      "longitude": "-122.715858"
+    }
+  },
+  {
+    "5166": {
+      "bee_id": 5166,
+      "common_name": "Fuzzy-horned bumble bee",
+      "dateidentified": {
+        "date": "2015-05-06 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Hydrophyllum sp.",
+      "latitude": "45.570006",
+      "longitude": "-122.763237"
+    }
+  },
+  {
+    "5165": {
+      "bee_id": 5165,
+      "common_name": "Fuzzy-horned bumble bee",
+      "dateidentified": {
+        "date": "2015-05-06 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Hydrophyllum sp.",
+      "latitude": "45.565961",
+      "longitude": "-122.758554"
+    }
+  },
+  {
+    "5164": {
+      "bee_id": 5164,
+      "common_name": "Yellow head bumble bee",
+      "dateidentified": {
+        "date": "2015-05-06 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Waterleaf (Hydrophyllum sp.)",
+      "latitude": "45.565961",
+      "longitude": "-122.758554"
+    }
+  },
+  {
+    "5142": {
+      "bee_id": 5142,
+      "common_name": "Yellow head bumble bee",
+      "dateidentified": {
+        "date": "2015-05-04 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Patrolling Male",
+      "latitude": "45.490740",
+      "longitude": "-122.723165"
+    }
+  },
+  {
+    "5141": {
+      "bee_id": 5141,
+      "common_name": "Black-tailed bumble bee",
+      "dateidentified": {
+        "date": "2015-05-04 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Rhododendron",
+      "latitude": "45.490740",
+      "longitude": "-122.723165"
+    }
+  },
+  {
+    "5119": {
+      "bee_id": 5119,
+      "common_name": "Bumble bee",
+      "dateidentified": {
+        "date": "2015-05-02 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Some flowering collards that I let go to seed. ",
+      "latitude": "45.558514",
+      "longitude": "-122.677644"
+    }
+  },
+  {
+    "5113": {
+      "bee_id": 5113,
+      "common_name": "Black-tailed bumble bee",
+      "dateidentified": {
+        "date": "2015-04-27 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Ceanothus thyrsiflorus",
+      "latitude": "45.595934",
+      "longitude": "-122.739950"
+    }
+  },
+  {
+    "5074": {
+      "bee_id": 5074,
+      "common_name": "Black-tailed bumble bee",
+      "dateidentified": {
+        "date": "2015-04-25 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "California lilac",
+      "latitude": "45.489880",
+      "longitude": "-122.610284"
+    }
+  },
+  {
+    "5073": {
+      "bee_id": 5073,
+      "common_name": "Yellow head bumble bee",
+      "dateidentified": {
+        "date": "2015-04-25 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "California lilac",
+      "latitude": "45.489880",
+      "longitude": "-122.610284"
+    }
+  },
+  {
+    "5071": {
+      "bee_id": 5071,
+      "common_name": "Bumble bee",
+      "dateidentified": {
+        "date": "2015-04-25 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "",
+      "latitude": "45.552416",
+      "longitude": "-122.659288"
+    }
+  },
+  {
+    "5064": {
+      "bee_id": 5064,
+      "common_name": "Black-tailed bumble bee",
+      "dateidentified": {
+        "date": "2015-04-22 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "",
+      "latitude": "45.493384",
+      "longitude": "-122.736721"
+    }
+  },
+  {
+    "5056": {
+      "bee_id": 5056,
+      "common_name": "Black-tailed bumble bee",
+      "dateidentified": {
+        "date": "2015-04-19 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "namesia",
+      "latitude": "45.500136",
+      "longitude": "-122.430201"
+    }
+  },
+  {
+    "5033": {
+      "bee_id": 5033,
+      "common_name": "Bumble bee",
+      "dateidentified": {
+        "date": "2015-04-16 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "",
+      "latitude": "45.519871",
+      "longitude": "-122.662302"
+    }
+  },
+  {
+    "4991": {
+      "bee_id": 4991,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2015-03-29 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "none",
+      "latitude": "45.513493",
+      "longitude": "-122.616327"
+    }
+  },
+  {
+    "4961": {
+      "bee_id": 4961,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2015-03-07 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Rosemary shrub",
+      "latitude": "45.513116",
+      "longitude": "-122.603112"
+    }
+  },
+  {
+    "4955": {
+      "bee_id": 4955,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2015-03-20 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "None, was circling around its nest",
+      "latitude": "45.464056",
+      "longitude": "-122.720397"
+    }
+  },
+  {
+    "4928": {
+      "bee_id": 4928,
+      "common_name": "Yellow bumble bee",
+      "dateidentified": {
+        "date": "2013-07-31 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "",
+      "latitude": "45.520253",
+      "longitude": "-122.608487"
+    }
+  },
+  {
+    "4927": {
+      "bee_id": 4927,
+      "common_name": "Black-tailed bumble bee",
+      "dateidentified": {
+        "date": "2014-07-20 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "",
+      "latitude": "45.520253",
+      "longitude": "-122.608487"
+    }
+  },
+  {
+    "4924": {
+      "bee_id": 4924,
+      "common_name": "Yellow head bumble bee",
+      "dateidentified": {
+        "date": "2015-03-04 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Mahonia Nervosa",
+      "latitude": "45.463367",
+      "longitude": "-122.617404"
+    }
+  },
+  {
+    "4535": {
+      "bee_id": 4535,
+      "common_name": "Fuzzy-horned bumble bee",
+      "dateidentified": {
+        "date": "2014-10-09 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Bidens cernua",
+      "latitude": "45.617591",
+      "longitude": "-122.730691"
+    }
+  },
+  {
+    "4534": {
+      "bee_id": 4534,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2014-10-09 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Bidens cernua",
+      "latitude": "45.617591",
+      "longitude": "-122.730691"
+    }
+  },
+  {
+    "4532": {
+      "bee_id": 4532,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2014-10-07 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "",
+      "latitude": "45.563991",
+      "longitude": "-122.629934"
+    }
+  },
+  {
+    "4521": {
+      "bee_id": 4521,
+      "common_name": "Black-tailed bumble bee",
+      "dateidentified": {
+        "date": "2014-05-31 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "",
+      "latitude": "45.523008",
+      "longitude": "-122.689780"
+    }
+  },
+  {
+    "4231": {
+      "bee_id": 4231,
+      "common_name": "Black-tailed bumble bee",
+      "dateidentified": {
+        "date": "2014-09-10 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "lavender",
+      "latitude": "45.521143",
+      "longitude": "-122.637978"
+    }
+  },
+  {
+    "4114": {
+      "bee_id": 4114,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2014-08-31 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Cosmos sulphureus",
+      "latitude": "45.485637",
+      "longitude": "-122.594626"
+    }
+  },
+  {
+    "3759": {
+      "bee_id": 3759,
+      "common_name": "Yellow-faced group",
+      "dateidentified": {
+        "date": "2014-07-07 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "tomatoes ",
+      "latitude": "45.523452",
+      "longitude": "-122.676207"
+    }
+  },
+  {
+    "3752": {
+      "bee_id": 3752,
+      "common_name": "Forest bumble bee",
+      "dateidentified": {
+        "date": "2014-07-01 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Sun Gold tomatoes",
+      "latitude": "45.523452",
+      "longitude": "-122.676207"
+    }
+  },
+  {
+    "3532": {
+      "bee_id": 3532,
+      "common_name": "Yellow-faced group",
+      "dateidentified": {
+        "date": "2014-07-29 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "California Poppy, Eschscholzia Californica",
+      "latitude": "45.575600",
+      "longitude": "-122.715830"
+    }
+  },
+  {
+    "3184": {
+      "bee_id": 3184,
+      "common_name": "Indiscriminant cuckoo bumble bee",
+      "dateidentified": {
+        "date": "2014-07-17 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Raspberry flowers and purple clover",
+      "latitude": "45.562434",
+      "longitude": "-122.656614"
+    }
+  },
+  {
+    "3083": {
+      "bee_id": 3083,
+      "common_name": "van Dyke bumble bee",
+      "dateidentified": {
+        "date": "2014-07-05 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Spirea",
+      "latitude": "45.513988",
+      "longitude": "-122.581749"
+    }
+  },
+  {
+    "3082": {
+      "bee_id": 3082,
+      "common_name": "van Dyke bumble bee",
+      "dateidentified": {
+        "date": "2014-06-15 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Lupin",
+      "latitude": "45.513988",
+      "longitude": "-122.581749"
+    }
+  },
+  {
+    "3081": {
+      "bee_id": 3081,
+      "common_name": "Black-tailed bumble bee",
+      "dateidentified": {
+        "date": "2014-06-15 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Lupin",
+      "latitude": "45.513988",
+      "longitude": "-122.581749"
+    }
+  },
+  {
+    "2810": {
+      "bee_id": 2810,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2014-07-02 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "clover",
+      "latitude": "45.595934",
+      "longitude": "-122.739950"
+    }
+  },
+  {
+    "2803": {
+      "bee_id": 2803,
+      "common_name": "Bumble bee",
+      "dateidentified": {
+        "date": "2014-07-02 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "lavender",
+      "latitude": "45.529079",
+      "longitude": "-122.580697"
+    }
+  },
+  {
+    "2795": {
+      "bee_id": 2795,
+      "common_name": "Black-tailed bumble bee",
+      "dateidentified": {
+        "date": "2014-06-30 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "",
+      "latitude": "45.564431",
+      "longitude": "-122.630337"
+    }
+  },
+  {
+    "2635": {
+      "bee_id": 2635,
+      "common_name": "Yellow-faced group",
+      "dateidentified": {
+        "date": "2014-06-25 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "",
+      "latitude": "45.546083",
+      "longitude": "-122.514932"
+    }
+  },
+  {
+    "2514": {
+      "bee_id": 2514,
+      "common_name": "Bumble bee",
+      "dateidentified": {
+        "date": "2014-06-19 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "spirea",
+      "latitude": "45.529079",
+      "longitude": "-122.580697"
+    }
+  },
+  {
+    "2470": {
+      "bee_id": 2470,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2014-06-18 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Eschscholzia californica",
+      "latitude": "45.547724",
+      "longitude": "-122.625263"
+    }
+  },
+  {
+    "2162": {
+      "bee_id": 2162,
+      "common_name": "Bumble bee",
+      "dateidentified": {
+        "date": "2014-06-08 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Lavender",
+      "latitude": "45.473558",
+      "longitude": "-122.530711"
+    }
+  },
+  {
+    "2094": {
+      "bee_id": 2094,
+      "common_name": "Bumble bee",
+      "dateidentified": {
+        "date": "2014-06-03 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "",
+      "latitude": "45.566652",
+      "longitude": "-122.694218"
+    }
+  },
+  {
+    "2092": {
+      "bee_id": 2092,
+      "common_name": "Bumble bee",
+      "dateidentified": {
+        "date": "2014-05-26 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "",
+      "latitude": "45.567512",
+      "longitude": "-122.694368"
+    }
+  },
+  {
+    "2079": {
+      "bee_id": 2079,
+      "common_name": "Bumble bee",
+      "dateidentified": {
+        "date": "2014-06-02 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Himalayan blackberry",
+      "latitude": "45.514805",
+      "longitude": "-122.606760"
+    }
+  },
+  {
+    "2032": {
+      "bee_id": 2032,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2014-06-01 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "(Siberian) Blackberry",
+      "latitude": "45.524278",
+      "longitude": "-122.640962"
+    }
+  },
+  {
+    "2031": {
+      "bee_id": 2031,
+      "common_name": "Black-tailed bumble bee",
+      "dateidentified": {
+        "date": "2014-06-01 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "(Siberian) Blackberry",
+      "latitude": "45.524278",
+      "longitude": "-122.640962"
+    }
+  },
+  {
+    "2013": {
+      "bee_id": 2013,
+      "common_name": "Bumble bee",
+      "dateidentified": {
+        "date": "2014-05-31 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "",
+      "latitude": "45.515705",
+      "longitude": "-122.616512"
+    }
+  },
+  {
+    "2012": {
+      "bee_id": 2012,
+      "common_name": "Black-tailed bumble bee",
+      "dateidentified": {
+        "date": "2014-05-31 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Foxglove",
+      "latitude": "45.515704",
+      "longitude": "-122.617075"
+    }
+  },
+  {
+    "1999": {
+      "bee_id": 1999,
+      "common_name": "Bumble bee",
+      "dateidentified": {
+        "date": "2014-05-31 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "",
+      "latitude": "45.514992",
+      "longitude": "-122.617749"
+    }
+  },
+  {
+    "1975": {
+      "bee_id": 1975,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2014-05-29 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Geranium?",
+      "latitude": "45.514992",
+      "longitude": "-122.617887"
+    }
+  },
+  {
+    "1969": {
+      "bee_id": 1969,
+      "common_name": "Bumble bee",
+      "dateidentified": {
+        "date": "2014-05-29 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Ceanothus",
+      "latitude": "45.515519",
+      "longitude": "-122.617260"
+    }
+  },
+  {
+    "1943": {
+      "bee_id": 1943,
+      "common_name": "Black-tailed bumble bee",
+      "dateidentified": {
+        "date": "2014-05-25 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Sidalcea campestris (native checkermallow)",
+      "latitude": "45.567595",
+      "longitude": "-122.617884"
+    }
+  },
+  {
+    "1931": {
+      "bee_id": 1931,
+      "common_name": "Black-tailed bumble bee",
+      "dateidentified": {
+        "date": "2014-05-24 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Ceanothus",
+      "latitude": "45.515519",
+      "longitude": "-122.617260"
+    }
+  },
+  {
+    "1930": {
+      "bee_id": 1930,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2014-05-27 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Ceanothus",
+      "latitude": "45.515519",
+      "longitude": "-122.617260"
+    }
+  },
+  {
+    "1901": {
+      "bee_id": 1901,
+      "common_name": "Yellow head bumble bee",
+      "dateidentified": {
+        "date": "2014-05-13 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Hydrophyllum tenuipes",
+      "latitude": "45.497961",
+      "longitude": "-122.692681"
+    }
+  },
+  {
+    "1858": {
+      "bee_id": 1858,
+      "common_name": "Black-tailed bumble bee",
+      "dateidentified": {
+        "date": "2014-05-23 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "",
+      "latitude": "45.517676",
+      "longitude": "-122.492240"
+    }
+  },
+  {
+    "1832": {
+      "bee_id": 1832,
+      "common_name": "Obscure bumble bee",
+      "dateidentified": {
+        "date": "2014-05-02 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "",
+      "latitude": "45.514293",
+      "longitude": "-122.601585"
+    }
+  },
+  {
+    "1767": {
+      "bee_id": 1767,
+      "common_name": "Yellow bumble bee",
+      "dateidentified": {
+        "date": "2014-05-22 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Bleeding Hearts",
+      "latitude": "45.473715",
+      "longitude": "-122.530752"
+    }
+  },
+  {
+    "1766": {
+      "bee_id": 1766,
+      "common_name": "Fuzzy-horned bumble bee",
+      "dateidentified": {
+        "date": "2014-05-13 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Rhododendron",
+      "latitude": "45.473823",
+      "longitude": "-122.530831"
+    }
+  },
+  {
+    "1765": {
+      "bee_id": 1765,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2014-05-12 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Onion",
+      "latitude": "45.473860",
+      "longitude": "-122.530966"
+    }
+  },
+  {
+    "1760": {
+      "bee_id": 1760,
+      "common_name": "Black-tailed bumble bee",
+      "dateidentified": {
+        "date": "2014-05-11 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Rhododendron",
+      "latitude": "45.473823",
+      "longitude": "-122.530831"
+    }
+  },
+  {
+    "1756": {
+      "bee_id": 1756,
+      "common_name": "Black-tailed bumble bee",
+      "dateidentified": {
+        "date": "2014-05-10 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Ash",
+      "latitude": "45.473823",
+      "longitude": "-122.530831"
+    }
+  },
+  {
+    "1687": {
+      "bee_id": 1687,
+      "common_name": "Yellow-faced group",
+      "dateidentified": {
+        "date": "2014-05-19 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Boisenberry",
+      "latitude": "45.498356",
+      "longitude": "-122.601579"
+    }
+  },
+  {
+    "1619": {
+      "bee_id": 1619,
+      "common_name": "Black-tailed bumble bee",
+      "dateidentified": {
+        "date": "2014-05-10 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Rhododendrons",
+      "latitude": "45.501999",
+      "longitude": "-122.594913"
+    }
+  },
+  {
+    "1552": {
+      "bee_id": 1552,
+      "common_name": "Yellow head bumble bee",
+      "dateidentified": {
+        "date": "2014-05-13 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "",
+      "latitude": "45.492283",
+      "longitude": "-122.725787"
+    }
+  },
+  {
+    "1551": {
+      "bee_id": 1551,
+      "common_name": "Black-tailed bumble bee",
+      "dateidentified": {
+        "date": "2014-05-13 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "",
+      "latitude": "45.492283",
+      "longitude": "-122.725787"
+    }
+  },
+  {
+    "1550": {
+      "bee_id": 1550,
+      "common_name": "Indiscriminant cuckoo bumble bee",
+      "dateidentified": {
+        "date": "2014-05-13 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "",
+      "latitude": "45.492283",
+      "longitude": "-122.725787"
+    }
+  },
+  {
+    "1543": {
+      "bee_id": 1543,
+      "common_name": "Fuzzy-horned bumble bee",
+      "dateidentified": {
+        "date": "2014-05-13 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "lupine",
+      "latitude": "45.539286",
+      "longitude": "-122.387313"
+    }
+  },
+  {
+    "1514": {
+      "bee_id": 1514,
+      "common_name": "Black-tailed bumble bee",
+      "dateidentified": {
+        "date": "2014-05-11 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "lupine",
+      "latitude": "45.595233",
+      "longitude": "-122.713004"
+    }
+  },
+  {
+    "1473": {
+      "bee_id": 1473,
+      "common_name": "Black-tailed bumble bee",
+      "dateidentified": {
+        "date": "2014-05-11 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Rhododendron",
+      "latitude": "45.463636",
+      "longitude": "-122.704898"
+    }
+  },
+  {
+    "1416": {
+      "bee_id": 1416,
+      "common_name": "Yellow head bumble bee",
+      "dateidentified": {
+        "date": "2014-05-07 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Onion",
+      "latitude": "45.473925",
+      "longitude": "-122.530986"
+    }
+  },
+  {
+    "1414": {
+      "bee_id": 1414,
+      "common_name": "Yellow head bumble bee",
+      "dateidentified": {
+        "date": "2014-05-07 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Chive ",
+      "latitude": "45.473926",
+      "longitude": "-122.530986"
+    }
+  },
+  {
+    "1395": {
+      "bee_id": 1395,
+      "common_name": "Black-tailed bumble bee",
+      "dateidentified": {
+        "date": "2014-05-07 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Rhododendron",
+      "latitude": "45.498301",
+      "longitude": "-122.601864"
+    }
+  },
+  {
+    "1379": {
+      "bee_id": 1379,
+      "common_name": "Black-tailed bumble bee",
+      "dateidentified": {
+        "date": "2014-05-05 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Ceanothus",
+      "latitude": "45.560223",
+      "longitude": "-122.690196"
+    }
+  },
+  {
+    "1378": {
+      "bee_id": 1378,
+      "common_name": "Black-tailed bumble bee",
+      "dateidentified": {
+        "date": "2014-05-05 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Raspberry",
+      "latitude": "45.560223",
+      "longitude": "-122.690196"
+    }
+  },
+  {
+    "1371": {
+      "bee_id": 1371,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2014-04-27 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "not sure",
+      "latitude": "45.539286",
+      "longitude": "-122.387313"
+    }
+  },
+  {
+    "1317": {
+      "bee_id": 1317,
+      "common_name": "Fuzzy-horned bumble bee",
+      "dateidentified": {
+        "date": "2014-05-01 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Cotoneaster",
+      "latitude": "45.473678",
+      "longitude": "-122.530550"
+    }
+  },
+  {
+    "1249": {
+      "bee_id": 1249,
+      "common_name": "Black-tailed bumble bee",
+      "dateidentified": {
+        "date": "2014-04-29 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Apple",
+      "latitude": "45.473642",
+      "longitude": "-122.531081"
+    }
+  },
+  {
+    "1248": {
+      "bee_id": 1248,
+      "common_name": "Yellow head bumble bee",
+      "dateidentified": {
+        "date": "2014-04-28 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "cotoneaster",
+      "latitude": "45.473679",
+      "longitude": "-122.530539"
+    }
+  },
+  {
+    "1247": {
+      "bee_id": 1247,
+      "common_name": "Yellow head bumble bee",
+      "dateidentified": {
+        "date": "2014-04-28 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Rosemary",
+      "latitude": "45.473558",
+      "longitude": "-122.530711"
+    }
+  },
+  {
+    "1246": {
+      "bee_id": 1246,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2014-04-27 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Barberry",
+      "latitude": "45.473895",
+      "longitude": "-122.530915"
+    }
+  },
+  {
+    "1244": {
+      "bee_id": 1244,
+      "common_name": "Fuzzy-horned bumble bee",
+      "dateidentified": {
+        "date": "2014-04-25 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Barberry",
+      "latitude": "45.473939",
+      "longitude": "-122.530882"
+    }
+  },
+  {
+    "1243": {
+      "bee_id": 1243,
+      "common_name": "Black-tailed bumble bee",
+      "dateidentified": {
+        "date": "2014-04-24 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Barberry",
+      "latitude": "45.473943",
+      "longitude": "-122.530893"
+    }
+  },
+  {
+    "1242": {
+      "bee_id": 1242,
+      "common_name": "Yellow head bumble bee",
+      "dateidentified": {
+        "date": "2014-04-24 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Barberry",
+      "latitude": "45.473938",
+      "longitude": "-122.530888"
+    }
+  },
+  {
+    "1210": {
+      "bee_id": 1210,
+      "common_name": "Fuzzy-horned bumble bee",
+      "dateidentified": {
+        "date": "2014-05-01 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Lupinus rivularis - riverbank lupine",
+      "latitude": "45.595934",
+      "longitude": "-122.739950"
+    }
+  },
+  {
+    "1207": {
+      "bee_id": 1207,
+      "common_name": "Black-tailed bumble bee",
+      "dateidentified": {
+        "date": "2013-10-26 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "N/A",
+      "latitude": "45.517136",
+      "longitude": "-122.620341"
+    }
+  },
+  {
+    "1199": {
+      "bee_id": 1199,
+      "common_name": "Black-tailed bumble bee",
+      "dateidentified": {
+        "date": "2014-04-29 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "rhododendron",
+      "latitude": "45.538177",
+      "longitude": "-122.632441"
+    }
+  },
+  {
+    "1098": {
+      "bee_id": 1098,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2014-04-18 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "",
+      "latitude": "45.546624",
+      "longitude": "-122.445284"
+    }
+  },
+  {
+    "1068": {
+      "bee_id": 1068,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2014-04-21 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Cotoneaster",
+      "latitude": "45.473682",
+      "longitude": "-122.530539"
+    }
+  },
+  {
+    "1067": {
+      "bee_id": 1067,
+      "common_name": "Black-tailed bumble bee",
+      "dateidentified": {
+        "date": "2014-04-21 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "cotoneaster",
+      "latitude": "45.473673",
+      "longitude": "-122.530539"
+    }
+  },
+  {
+    "1066": {
+      "bee_id": 1066,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2014-04-20 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Blueberry",
+      "latitude": "45.473610",
+      "longitude": "-122.530570"
+    }
+  },
+  {
+    "1065": {
+      "bee_id": 1065,
+      "common_name": "Black-tailed bumble bee",
+      "dateidentified": {
+        "date": "2014-04-20 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Blueberry",
+      "latitude": "45.473686",
+      "longitude": "-122.530732"
+    }
+  },
+  {
+    "1048": {
+      "bee_id": 1048,
+      "common_name": "Bumble bee",
+      "dateidentified": {
+        "date": "2014-04-19 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "spirea",
+      "latitude": "45.537016",
+      "longitude": "-122.632999"
+    }
+  },
+  {
+    "1005": {
+      "bee_id": 1005,
+      "common_name": "Black-tailed bumble bee",
+      "dateidentified": {
+        "date": "2014-04-18 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "blueberry ",
+      "latitude": "45.515842",
+      "longitude": "-122.491826"
+    }
+  },
+  {
+    "1004": {
+      "bee_id": 1004,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2014-04-18 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "blueberry ",
+      "latitude": "45.515842",
+      "longitude": "-122.491826"
+    }
+  },
+  {
+    "997": {
+      "bee_id": 997,
+      "common_name": "Fuzzy-horned bumble bee",
+      "dateidentified": {
+        "date": "2014-04-18 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "",
+      "latitude": "45.589924",
+      "longitude": "-122.738432"
+    }
+  },
+  {
+    "976": {
+      "bee_id": 976,
+      "common_name": "Black-tailed bumble bee",
+      "dateidentified": {
+        "date": "2013-05-27 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Raspberry plants",
+      "latitude": "45.513983",
+      "longitude": "-122.628496"
+    }
+  },
+  {
+    "951": {
+      "bee_id": 951,
+      "common_name": "Black-tailed bumble bee",
+      "dateidentified": {
+        "date": "2014-03-11 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Daphne",
+      "latitude": "45.497229",
+      "longitude": "-122.492257"
+    }
+  },
+  {
+    "925": {
+      "bee_id": 925,
+      "common_name": "Black-tailed bumble bee",
+      "dateidentified": {
+        "date": "2014-04-13 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Black currant",
+      "latitude": "45.473698",
+      "longitude": "-122.530732"
+    }
+  },
+  {
+    "923": {
+      "bee_id": 923,
+      "common_name": "Yellow head bumble bee",
+      "dateidentified": {
+        "date": "2014-04-13 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Bleeding Hearts",
+      "latitude": "45.473713",
+      "longitude": "-122.530732"
+    }
+  },
+  {
+    "892": {
+      "bee_id": 892,
+      "common_name": "Yellow head bumble bee",
+      "dateidentified": {
+        "date": "2014-04-09 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Black currant",
+      "latitude": "45.473676",
+      "longitude": "-122.530775"
+    }
+  },
+  {
+    "777": {
+      "bee_id": 777,
+      "common_name": "Fuzzy-horned bumble bee",
+      "dateidentified": {
+        "date": "2014-03-22 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Oregon Grape",
+      "latitude": "45.473662",
+      "longitude": "-122.530845"
+    }
+  },
+  {
+    "776": {
+      "bee_id": 776,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2014-03-22 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Rosemary shrub",
+      "latitude": "45.562482",
+      "longitude": "-122.656507"
+    }
+  },
+  {
+    "741": {
+      "bee_id": 741,
+      "common_name": "Black-tailed bumble bee",
+      "dateidentified": {
+        "date": "2014-03-16 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Oregon Grape",
+      "latitude": "45.473652",
+      "longitude": "-122.530851"
+    }
+  },
+  {
+    "732": {
+      "bee_id": 732,
+      "common_name": "Yellow head bumble bee",
+      "dateidentified": {
+        "date": "2014-03-13 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Oregon Grape",
+      "latitude": "45.473650",
+      "longitude": "-122.530837"
+    }
+  },
+  {
+    "731": {
+      "bee_id": 731,
+      "common_name": "Yellow head bumble bee",
+      "dateidentified": {
+        "date": "2014-03-13 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Oregon Grape",
+      "latitude": "45.473666",
+      "longitude": "-122.530845"
+    }
+  },
+  {
+    "729": {
+      "bee_id": 729,
+      "common_name": "Black-tailed bumble bee",
+      "dateidentified": {
+        "date": "2014-03-07 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "",
+      "latitude": "45.470201",
+      "longitude": "-122.646346"
+    }
+  },
+  {
+    "713": {
+      "bee_id": 713,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2014-03-11 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Oregon Grape",
+      "latitude": "45.473666",
+      "longitude": "-122.530841"
+    }
+  },
+  {
+    "343": {
+      "bee_id": 343,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2013-08-06 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "dahlia",
+      "latitude": "45.473638",
+      "longitude": "-122.530853"
+    }
+  },
+  {
+    "342": {
+      "bee_id": 342,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2013-08-02 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "oregano",
+      "latitude": "45.473688",
+      "longitude": "-122.530672"
+    }
+  },
+  {
+    "341": {
+      "bee_id": 341,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2013-07-05 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Lavender",
+      "latitude": "45.473666",
+      "longitude": "-122.530835"
+    }
+  },
+  {
+    "337": {
+      "bee_id": 337,
+      "common_name": "Bumble bee",
+      "dateidentified": {
+        "date": "2013-07-01 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "salvia",
+      "latitude": "45.473675",
+      "longitude": "-122.530683"
+    }
+  },
+  {
+    "336": {
+      "bee_id": 336,
+      "common_name": "Yellow head bumble bee",
+      "dateidentified": {
+        "date": "2013-06-27 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Lavender",
+      "latitude": "45.473608",
+      "longitude": "-122.530729"
+    }
+  },
+  {
+    "335": {
+      "bee_id": 335,
+      "common_name": "Black-tailed bumble bee",
+      "dateidentified": {
+        "date": "2013-05-26 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "onion",
+      "latitude": "45.473868",
+      "longitude": "-122.530885"
+    }
+  },
+  {
+    "334": {
+      "bee_id": 334,
+      "common_name": "Fuzzy-horned bumble bee",
+      "dateidentified": {
+        "date": "2013-05-20 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "onion",
+      "latitude": "45.473868",
+      "longitude": "-122.530885"
+    }
+  },
+  {
+    "331": {
+      "bee_id": 331,
+      "common_name": "Yellow head bumble bee",
+      "dateidentified": {
+        "date": "2013-05-20 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Rhododendron",
+      "latitude": "45.473841",
+      "longitude": "-122.530784"
+    }
+  },
+  {
+    "330": {
+      "bee_id": 330,
+      "common_name": "Yellow head bumble bee",
+      "dateidentified": {
+        "date": "2013-05-20 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "chive",
+      "latitude": "45.473675",
+      "longitude": "-122.530629"
+    }
+  },
+  {
+    "325": {
+      "bee_id": 325,
+      "common_name": "Black-tailed bumble bee",
+      "dateidentified": {
+        "date": "2013-05-14 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "chive",
+      "latitude": "45.473702",
+      "longitude": "-122.530746"
+    }
+  },
+  {
+    "324": {
+      "bee_id": 324,
+      "common_name": "Yellow head bumble bee",
+      "dateidentified": {
+        "date": "2013-05-07 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "red clover",
+      "latitude": "45.473890",
+      "longitude": "-122.530935"
+    }
+  },
+  {
+    "320": {
+      "bee_id": 320,
+      "common_name": "Yellow bumble bee",
+      "dateidentified": {
+        "date": "2013-05-05 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "red clover",
+      "latitude": "45.473849",
+      "longitude": "-122.530949"
+    }
+  },
+  {
+    "315": {
+      "bee_id": 315,
+      "common_name": "Yellow head bumble bee",
+      "dateidentified": {
+        "date": "2013-04-30 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Cotoneaster",
+      "latitude": "45.473660",
+      "longitude": "-122.530570"
+    }
+  },
+  {
+    "311": {
+      "bee_id": 311,
+      "common_name": "Fuzzy-horned bumble bee",
+      "dateidentified": {
+        "date": "2013-04-29 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Cotoneaster",
+      "latitude": "45.473660",
+      "longitude": "-122.530570"
+    }
+  },
+  {
+    "309": {
+      "bee_id": 309,
+      "common_name": "Yellow head bumble bee",
+      "dateidentified": {
+        "date": "2013-04-29 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Blueberry",
+      "latitude": "45.473909",
+      "longitude": "-122.530917"
+    }
+  },
+  {
+    "302": {
+      "bee_id": 302,
+      "common_name": "Black-tailed bumble bee",
+      "dateidentified": {
+        "date": "2013-04-29 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Blueberry",
+      "latitude": "45.473913",
+      "longitude": "-122.530924"
+    }
+  },
+  {
+    "299": {
+      "bee_id": 299,
+      "common_name": "Yellow-faced bumble bee",
+      "dateidentified": {
+        "date": "2013-03-28 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Oregon Grape",
+      "latitude": "45.473680",
+      "longitude": "-122.530890"
+    }
+  },
+  {
+    "289": {
+      "bee_id": 289,
+      "common_name": "Black-tailed bumble bee",
+      "dateidentified": {
+        "date": "2013-03-04 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Crocus",
+      "latitude": "45.473715",
+      "longitude": "-122.530738"
+    }
+  },
+  {
+    "99": {
+      "bee_id": 99,
+      "common_name": "Yellow-faced group",
+      "dateidentified": {
+        "date": "2013-09-18 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Smooth Blue Aster (Symphyotrichum laeve)",
+      "latitude": "45.485668",
+      "longitude": "-122.615973"
+    }
+  },
+  {
+    "98": {
+      "bee_id": 98,
+      "common_name": "Bumble bee",
+      "dateidentified": {
+        "date": "2013-09-18 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Smooth Blue Aster (Symphyotrichum laeve)",
+      "latitude": "45.485668",
+      "longitude": "-122.615973"
+    }
+  },
+  {
+    "65": {
+      "bee_id": 65,
+      "common_name": "Black-tailed bumble bee",
+      "dateidentified": {
+        "date": "2012-05-10 00:00:00.000000",
+        "timezone": "UTC",
+        "timezone_type": 3
+      },
+      "floral_host": "Bluebells",
+      "latitude": "45.560223",
+      "longitude": "-122.690196"
+    }
+  }
 ]
