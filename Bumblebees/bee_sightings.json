@@ -10,7 +10,8 @@
       },
       "floral_host": null,
       "latitude": "45.524403",
-      "longitude": "-122.637095"
+      "longitude": "-122.637095",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -24,7 +25,8 @@
       },
       "floral_host": "Joe Pyle weed",
       "latitude": "45.494031",
-      "longitude": "-122.427821"
+      "longitude": "-122.427821",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -38,7 +40,8 @@
       },
       "floral_host": null,
       "latitude": "45.584405",
-      "longitude": "-122.723538"
+      "longitude": "-122.723538",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -52,7 +55,8 @@
       },
       "floral_host": "Aster Douglasii",
       "latitude": "45.494263",
-      "longitude": "-122.427542"
+      "longitude": "-122.427542",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -66,7 +70,8 @@
       },
       "floral_host": "",
       "latitude": "45.539996",
-      "longitude": "-122.571588"
+      "longitude": "-122.571588",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -80,7 +85,8 @@
       },
       "floral_host": "Sedum spp.",
       "latitude": "45.500361",
-      "longitude": "-122.614319"
+      "longitude": "-122.614319",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -94,7 +100,8 @@
       },
       "floral_host": "Bachelor buttons, rocket larkspur",
       "latitude": "45.489743",
-      "longitude": "-122.610284"
+      "longitude": "-122.610284",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -108,7 +115,8 @@
       },
       "floral_host": "Tomato plants",
       "latitude": "45.537387",
-      "longitude": "-122.603281"
+      "longitude": "-122.603281",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -122,7 +130,8 @@
       },
       "floral_host": "Balfour Impatien",
       "latitude": "45.551751",
-      "longitude": "-122.620125"
+      "longitude": "-122.620125",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -136,7 +145,8 @@
       },
       "floral_host": "Zinnia",
       "latitude": "45.462434",
-      "longitude": "-122.408183"
+      "longitude": "-122.408183",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -150,7 +160,8 @@
       },
       "floral_host": "lavender",
       "latitude": "45.533844",
-      "longitude": "-122.708488"
+      "longitude": "-122.708488",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -164,7 +175,8 @@
       },
       "floral_host": "Lavender",
       "latitude": "45.538536",
-      "longitude": "-122.603517"
+      "longitude": "-122.603517",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -178,7 +190,8 @@
       },
       "floral_host": "daisy, perhaps non-native",
       "latitude": "45.489315",
-      "longitude": "-122.507107"
+      "longitude": "-122.507107",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -192,7 +205,8 @@
       },
       "floral_host": "Rose shrub",
       "latitude": "45.442248",
-      "longitude": "-122.734499"
+      "longitude": "-122.734499",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -206,7 +220,8 @@
       },
       "floral_host": "lavendar",
       "latitude": "45.519303",
-      "longitude": "-122.605770"
+      "longitude": "-122.605770",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -220,7 +235,8 @@
       },
       "floral_host": "Lavendar and Calendula",
       "latitude": "45.519243",
-      "longitude": "-122.605512"
+      "longitude": "-122.605512",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -234,7 +250,8 @@
       },
       "floral_host": "Rose",
       "latitude": "45.523062",
-      "longitude": "-122.676482"
+      "longitude": "-122.676482",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -248,7 +265,8 @@
       },
       "floral_host": "Hypericum",
       "latitude": "45.523062",
-      "longitude": "-122.676482"
+      "longitude": "-122.676482",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -262,7 +280,8 @@
       },
       "floral_host": "Lavendar",
       "latitude": "45.523062",
-      "longitude": "-122.676482"
+      "longitude": "-122.676482",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -276,7 +295,8 @@
       },
       "floral_host": "Spirea",
       "latitude": "45.523062",
-      "longitude": "-122.676482"
+      "longitude": "-122.676482",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -290,7 +310,8 @@
       },
       "floral_host": "California Poppy",
       "latitude": "45.519508",
-      "longitude": "-122.605662"
+      "longitude": "-122.605662",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -304,7 +325,8 @@
       },
       "floral_host": "Bee balm",
       "latitude": "45.523062",
-      "longitude": "-122.676482"
+      "longitude": "-122.676482",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -318,7 +340,8 @@
       },
       "floral_host": "Vetch",
       "latitude": "45.535415",
-      "longitude": "-122.304904"
+      "longitude": "-122.304904",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -332,7 +355,8 @@
       },
       "floral_host": "Blackberry",
       "latitude": "45.535415",
-      "longitude": "-122.304904"
+      "longitude": "-122.304904",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -346,7 +370,8 @@
       },
       "floral_host": "Vetch",
       "latitude": "45.535415",
-      "longitude": "-122.304904"
+      "longitude": "-122.304904",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -360,7 +385,8 @@
       },
       "floral_host": "Blackberry",
       "latitude": "45.535415",
-      "longitude": "-122.304904"
+      "longitude": "-122.304904",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -374,7 +400,8 @@
       },
       "floral_host": "Blackberry",
       "latitude": "45.535415",
-      "longitude": "-122.304904"
+      "longitude": "-122.304904",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -388,7 +415,8 @@
       },
       "floral_host": "Phacelia",
       "latitude": "45.581211",
-      "longitude": "-122.797297"
+      "longitude": "-122.797297",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -402,7 +430,8 @@
       },
       "floral_host": "Rose",
       "latitude": "45.523062",
-      "longitude": "-122.676482"
+      "longitude": "-122.676482",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -416,7 +445,8 @@
       },
       "floral_host": "Hypericum",
       "latitude": "45.523062",
-      "longitude": "-122.676482"
+      "longitude": "-122.676482",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -430,7 +460,8 @@
       },
       "floral_host": "Spirea",
       "latitude": "45.523062",
-      "longitude": "-122.676482"
+      "longitude": "-122.676482",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -444,7 +475,8 @@
       },
       "floral_host": "Lavender",
       "latitude": "45.500112",
-      "longitude": "-122.611958"
+      "longitude": "-122.611958",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -458,7 +490,8 @@
       },
       "floral_host": "",
       "latitude": "45.513923",
-      "longitude": "-122.595760"
+      "longitude": "-122.595760",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -472,7 +505,8 @@
       },
       "floral_host": "Hypericum",
       "latitude": "45.523062",
-      "longitude": "-122.676482"
+      "longitude": "-122.676482",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -486,7 +520,8 @@
       },
       "floral_host": "Hypericum",
       "latitude": "45.523062",
-      "longitude": "-122.676482"
+      "longitude": "-122.676482",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -500,7 +535,8 @@
       },
       "floral_host": "Spirea",
       "latitude": "45.523062",
-      "longitude": "-122.676482"
+      "longitude": "-122.676482",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -514,7 +550,8 @@
       },
       "floral_host": "Lavender",
       "latitude": "45.537296",
-      "longitude": "-122.603495"
+      "longitude": "-122.603495",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -528,7 +565,8 @@
       },
       "floral_host": "Foxglove",
       "latitude": "45.462941",
-      "longitude": "-122.650914"
+      "longitude": "-122.650914",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -542,7 +580,8 @@
       },
       "floral_host": "Waterleaf",
       "latitude": "45.440461",
-      "longitude": "-122.678207"
+      "longitude": "-122.678207",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -556,7 +595,8 @@
       },
       "floral_host": "",
       "latitude": "45.473790",
-      "longitude": "-122.621482"
+      "longitude": "-122.621482",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -570,7 +610,8 @@
       },
       "floral_host": "Rose",
       "latitude": "45.523062",
-      "longitude": "-122.676482"
+      "longitude": "-122.676482",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -584,7 +625,8 @@
       },
       "floral_host": "Hypericum",
       "latitude": "45.523062",
-      "longitude": "-122.676482"
+      "longitude": "-122.676482",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -598,7 +640,8 @@
       },
       "floral_host": "California Poppy",
       "latitude": "45.501132",
-      "longitude": "-122.640381"
+      "longitude": "-122.640381",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -612,7 +655,8 @@
       },
       "floral_host": "Lavender",
       "latitude": "45.537387",
-      "longitude": "-122.603281"
+      "longitude": "-122.603281",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -626,7 +670,8 @@
       },
       "floral_host": "",
       "latitude": "45.500112",
-      "longitude": "-122.611958"
+      "longitude": "-122.611958",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -640,7 +685,8 @@
       },
       "floral_host": "Spirea",
       "latitude": "45.462434",
-      "longitude": "-122.408183"
+      "longitude": "-122.408183",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -654,7 +700,8 @@
       },
       "floral_host": "Hardy geranium",
       "latitude": "45.462434",
-      "longitude": "-122.408183"
+      "longitude": "-122.408183",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -668,7 +715,8 @@
       },
       "floral_host": "Blackberry",
       "latitude": "45.462434",
-      "longitude": "-122.408183"
+      "longitude": "-122.408183",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -682,7 +730,8 @@
       },
       "floral_host": "",
       "latitude": "45.564774",
-      "longitude": "-122.670250"
+      "longitude": "-122.670250",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -696,7 +745,8 @@
       },
       "floral_host": null,
       "latitude": "45.490793",
-      "longitude": "-122.723385"
+      "longitude": "-122.723385",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -710,7 +760,8 @@
       },
       "floral_host": "Nepeta \"Walkers Low\"",
       "latitude": "45.470125",
-      "longitude": "-122.711897"
+      "longitude": "-122.711897",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -724,7 +775,8 @@
       },
       "floral_host": "Vetch",
       "latitude": "45.535267",
-      "longitude": "-122.305148"
+      "longitude": "-122.305148",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -738,7 +790,8 @@
       },
       "floral_host": "Blackberry",
       "latitude": "45.535031",
-      "longitude": "-122.305453"
+      "longitude": "-122.305453",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -752,7 +805,8 @@
       },
       "floral_host": "Blackberry",
       "latitude": "45.535057",
-      "longitude": "-122.305276"
+      "longitude": "-122.305276",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -766,7 +820,8 @@
       },
       "floral_host": "Blackberry",
       "latitude": "45.535177",
-      "longitude": "-122.305191"
+      "longitude": "-122.305191",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -780,7 +835,8 @@
       },
       "floral_host": "Vetch",
       "latitude": "45.535090",
-      "longitude": "-122.305394"
+      "longitude": "-122.305394",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -794,7 +850,8 @@
       },
       "floral_host": "Vetch",
       "latitude": "45.535118",
-      "longitude": "-122.305440"
+      "longitude": "-122.305440",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -808,7 +865,8 @@
       },
       "floral_host": "",
       "latitude": "45.477426",
-      "longitude": "-122.676557"
+      "longitude": "-122.676557",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -822,7 +880,8 @@
       },
       "floral_host": "",
       "latitude": "45.477448",
-      "longitude": "-122.676687"
+      "longitude": "-122.676687",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -836,7 +895,8 @@
       },
       "floral_host": "Japanese iris",
       "latitude": "45.526218",
-      "longitude": "-122.624617"
+      "longitude": "-122.624617",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -850,7 +910,8 @@
       },
       "floral_host": null,
       "latitude": "45.490251",
-      "longitude": "-122.722565"
+      "longitude": "-122.722565",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -864,7 +925,8 @@
       },
       "floral_host": "Big leaf lupine",
       "latitude": "45.645378",
-      "longitude": "-122.816866"
+      "longitude": "-122.816866",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -878,7 +940,8 @@
       },
       "floral_host": "Rosa rugosa  'Moje Hammarberg'",
       "latitude": "45.5202566",
-      "longitude": "-122.6106757"
+      "longitude": "-122.6106757",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -892,7 +955,8 @@
       },
       "floral_host": "Lupinus polyphyllus",
       "latitude": "45.63311",
-      "longitude": "-122.80946"
+      "longitude": "-122.80946",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -906,7 +970,8 @@
       },
       "floral_host": "Lupinus polyphyllus",
       "latitude": "45.63311",
-      "longitude": "-122.80946"
+      "longitude": "-122.80946",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -920,7 +985,8 @@
       },
       "floral_host": null,
       "latitude": "45.582562",
-      "longitude": "-122.535462"
+      "longitude": "-122.535462",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -934,7 +1000,8 @@
       },
       "floral_host": "",
       "latitude": "45.473790",
-      "longitude": "-122.621482"
+      "longitude": "-122.621482",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -948,7 +1015,8 @@
       },
       "floral_host": "wisteria",
       "latitude": "45.473790",
-      "longitude": "-122.621482"
+      "longitude": "-122.621482",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -962,7 +1030,8 @@
       },
       "floral_host": "comfrey",
       "latitude": "45.473790",
-      "longitude": "-122.621482"
+      "longitude": "-122.621482",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -976,7 +1045,8 @@
       },
       "floral_host": "Lavender",
       "latitude": "45.467963",
-      "longitude": "-122.690146"
+      "longitude": "-122.690146",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -990,7 +1060,8 @@
       },
       "floral_host": null,
       "latitude": "45.489922",
-      "longitude": "-122.722331"
+      "longitude": "-122.722331",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -1004,7 +1075,8 @@
       },
       "floral_host": "Fringe cup Tellima grandiflora",
       "latitude": "45.604285",
-      "longitude": "-122.043171"
+      "longitude": "-122.043171",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -1018,7 +1090,8 @@
       },
       "floral_host": "Comfrey (Sympytum officinale)",
       "latitude": "45.566998",
-      "longitude": "-122.606840"
+      "longitude": "-122.606840",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -1032,7 +1105,8 @@
       },
       "floral_host": "Blueberry",
       "latitude": "45.604285",
-      "longitude": "-122.043171"
+      "longitude": "-122.043171",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -1046,7 +1120,8 @@
       },
       "floral_host": "Rhododendron",
       "latitude": "45.508665",
-      "longitude": "-122.446443"
+      "longitude": "-122.446443",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -1060,7 +1135,8 @@
       },
       "floral_host": "Indian plum, Oemleria cerasiformis",
       "latitude": "45.604285",
-      "longitude": "-122.043171"
+      "longitude": "-122.043171",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -1074,7 +1150,8 @@
       },
       "floral_host": "Close to perris japonica",
       "latitude": "45.534994",
-      "longitude": "-122.671395"
+      "longitude": "-122.671395",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -1088,7 +1165,8 @@
       },
       "floral_host": "Lupinus rivularis",
       "latitude": "45.484053",
-      "longitude": "-122.501088"
+      "longitude": "-122.501088",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -1102,7 +1180,8 @@
       },
       "floral_host": "Lupinus rivularis",
       "latitude": "45.484080",
-      "longitude": "-122.500970"
+      "longitude": "-122.500970",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -1116,7 +1195,8 @@
       },
       "floral_host": "Lupinus rivularis",
       "latitude": "45.484610",
-      "longitude": "-122.500573"
+      "longitude": "-122.500573",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -1130,7 +1210,8 @@
       },
       "floral_host": "On ground, searching leaf litter.",
       "latitude": "45.456810",
-      "longitude": "-122.664236"
+      "longitude": "-122.664236",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -1144,7 +1225,8 @@
       },
       "floral_host": "Cirsium vulgare",
       "latitude": "45.471294",
-      "longitude": "-122.641057"
+      "longitude": "-122.641057",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -1158,7 +1240,8 @@
       },
       "floral_host": "Canada goldenrod",
       "latitude": "45.63267",
-      "longitude": "-122.80954"
+      "longitude": "-122.80954",
+      "sightingstatus_id": 3
     }
   },
   {
@@ -1172,7 +1255,8 @@
       },
       "floral_host": "Lavender",
       "latitude": "45.442212",
-      "longitude": "-122.734485"
+      "longitude": "-122.734485",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -1186,7 +1270,8 @@
       },
       "floral_host": "",
       "latitude": "45.486555",
-      "longitude": "-122.598255"
+      "longitude": "-122.598255",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -1200,7 +1285,8 @@
       },
       "floral_host": "Showy milkweed",
       "latitude": "45.595934",
-      "longitude": "-122.739950"
+      "longitude": "-122.739950",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -1214,7 +1300,8 @@
       },
       "floral_host": null,
       "latitude": "45.515529",
-      "longitude": "-122.705483"
+      "longitude": "-122.705483",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -1228,7 +1315,8 @@
       },
       "floral_host": "Echinacea purpurea",
       "latitude": "45.489743",
-      "longitude": "-122.610284"
+      "longitude": "-122.610284",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -1242,7 +1330,8 @@
       },
       "floral_host": "Lavender",
       "latitude": "45.544292",
-      "longitude": "-122.623356"
+      "longitude": "-122.623356",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -1256,7 +1345,8 @@
       },
       "floral_host": "Lavender",
       "latitude": "45.502335",
-      "longitude": "-122.596406"
+      "longitude": "-122.596406",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -1270,7 +1360,8 @@
       },
       "floral_host": "Oregano",
       "latitude": "45.546794",
-      "longitude": "-122.611354"
+      "longitude": "-122.611354",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -1284,7 +1375,8 @@
       },
       "floral_host": "Dwarf Germander (Teucrium chamaedrys 'Nanum')",
       "latitude": "45.501079",
-      "longitude": "-122.598550"
+      "longitude": "-122.598550",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -1298,7 +1390,8 @@
       },
       "floral_host": "Crimson clover",
       "latitude": "45.505809",
-      "longitude": "-122.629308"
+      "longitude": "-122.629308",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -1312,7 +1405,8 @@
       },
       "floral_host": "lavendar",
       "latitude": "45.540274",
-      "longitude": "-122.571636"
+      "longitude": "-122.571636",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -1326,7 +1420,8 @@
       },
       "floral_host": "Clover",
       "latitude": "45.467941",
-      "longitude": "-122.660133"
+      "longitude": "-122.660133",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -1340,7 +1435,8 @@
       },
       "floral_host": "Succulent",
       "latitude": "45.477504",
-      "longitude": "-122.676493"
+      "longitude": "-122.676493",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -1354,7 +1450,8 @@
       },
       "floral_host": "Garlic",
       "latitude": "45.442212",
-      "longitude": "-122.734485"
+      "longitude": "-122.734485",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -1368,7 +1465,8 @@
       },
       "floral_host": "hollyhock",
       "latitude": "45.526198",
-      "longitude": "-122.624624"
+      "longitude": "-122.624624",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -1382,7 +1480,8 @@
       },
       "floral_host": "",
       "latitude": "45.472481",
-      "longitude": "-122.734336"
+      "longitude": "-122.734336",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -1396,7 +1495,8 @@
       },
       "floral_host": "",
       "latitude": "45.472481",
-      "longitude": "-122.734336"
+      "longitude": "-122.734336",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -1410,7 +1510,8 @@
       },
       "floral_host": "Jasmine vine",
       "latitude": "45.477504",
-      "longitude": "-122.676493"
+      "longitude": "-122.676493",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -1424,7 +1525,8 @@
       },
       "floral_host": "Ornamental Spirea",
       "latitude": "45.502971",
-      "longitude": "-122.596556"
+      "longitude": "-122.596556",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -1438,7 +1540,8 @@
       },
       "floral_host": "Lavender",
       "latitude": "45.503220",
-      "longitude": "-122.598074"
+      "longitude": "-122.598074",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -1452,7 +1555,8 @@
       },
       "floral_host": "",
       "latitude": "45.546944",
-      "longitude": "-122.612593"
+      "longitude": "-122.612593",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -1466,7 +1570,8 @@
       },
       "floral_host": "Borage",
       "latitude": "45.546794",
-      "longitude": "-122.611354"
+      "longitude": "-122.611354",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -1480,7 +1585,8 @@
       },
       "floral_host": "California poppy",
       "latitude": "45.546794",
-      "longitude": "-122.611354"
+      "longitude": "-122.611354",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -1494,7 +1600,8 @@
       },
       "floral_host": "",
       "latitude": "45.511165",
-      "longitude": "-122.615318"
+      "longitude": "-122.615318",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -1508,7 +1615,8 @@
       },
       "floral_host": "",
       "latitude": "45.512104",
-      "longitude": "-122.614594"
+      "longitude": "-122.614594",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -1522,7 +1630,8 @@
       },
       "floral_host": "crocus",
       "latitude": "45.476828",
-      "longitude": "-122.627786"
+      "longitude": "-122.627786",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -1536,7 +1645,8 @@
       },
       "floral_host": "crocus",
       "latitude": "45.476828",
-      "longitude": "-122.627786"
+      "longitude": "-122.627786",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -1550,7 +1660,8 @@
       },
       "floral_host": "Gayfeather(liatris)",
       "latitude": "45.469596",
-      "longitude": "-122.461214"
+      "longitude": "-122.461214",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -1564,7 +1675,8 @@
       },
       "floral_host": "Penstemon",
       "latitude": "45.501099",
-      "longitude": "-122.598537"
+      "longitude": "-122.598537",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -1578,7 +1690,8 @@
       },
       "floral_host": "Golden spirea",
       "latitude": "45.499475",
-      "longitude": "-122.628579"
+      "longitude": "-122.628579",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -1592,7 +1705,8 @@
       },
       "floral_host": "Sage",
       "latitude": "45.523062",
-      "longitude": "-122.676482"
+      "longitude": "-122.676482",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -1606,7 +1720,8 @@
       },
       "floral_host": "California Poppy ",
       "latitude": "45.531178",
-      "longitude": "-122.608806"
+      "longitude": "-122.608806",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -1620,7 +1735,8 @@
       },
       "floral_host": "Pacific bleeding heart (Dicentra formosa)",
       "latitude": "45.501344",
-      "longitude": "-122.598674"
+      "longitude": "-122.598674",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -1634,7 +1750,8 @@
       },
       "floral_host": "",
       "latitude": "45.442212",
-      "longitude": "-122.734485"
+      "longitude": "-122.734485",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -1648,7 +1765,8 @@
       },
       "floral_host": "",
       "latitude": "45.442212",
-      "longitude": "-122.734485"
+      "longitude": "-122.734485",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -1662,7 +1780,8 @@
       },
       "floral_host": "Plectritis",
       "latitude": "45.582067",
-      "longitude": "-122.536279"
+      "longitude": "-122.536279",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -1676,7 +1795,8 @@
       },
       "floral_host": "Plectritis",
       "latitude": "45.582067",
-      "longitude": "-122.536279"
+      "longitude": "-122.536279",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -1690,7 +1810,8 @@
       },
       "floral_host": "Ribes sanguineum  (red-flowering currant)",
       "latitude": "45.544374",
-      "longitude": "-122.623419"
+      "longitude": "-122.623419",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -1704,7 +1825,8 @@
       },
       "floral_host": "",
       "latitude": "45.442212",
-      "longitude": "-122.734485"
+      "longitude": "-122.734485",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -1718,7 +1840,8 @@
       },
       "floral_host": "",
       "latitude": "45.474133",
-      "longitude": "-122.711954"
+      "longitude": "-122.711954",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -1732,7 +1855,8 @@
       },
       "floral_host": "",
       "latitude": "45.540274",
-      "longitude": "-122.571636"
+      "longitude": "-122.571636",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -1746,7 +1870,8 @@
       },
       "floral_host": "Salomon's Seal (Polygonatum)",
       "latitude": "45.501237",
-      "longitude": "-122.598417"
+      "longitude": "-122.598417",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -1760,7 +1885,8 @@
       },
       "floral_host": "",
       "latitude": "45.537130",
-      "longitude": "-122.778098"
+      "longitude": "-122.778098",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -1774,7 +1900,8 @@
       },
       "floral_host": "",
       "latitude": "45.519136",
-      "longitude": "-122.706780"
+      "longitude": "-122.706780",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -1788,7 +1915,8 @@
       },
       "floral_host": "Coreopsis lanceolata",
       "latitude": "45.489880",
-      "longitude": "-122.610284"
+      "longitude": "-122.610284",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -1802,7 +1930,8 @@
       },
       "floral_host": "Helianthus sp. (mammoth variety)",
       "latitude": "45.489880",
-      "longitude": "-122.610284"
+      "longitude": "-122.610284",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -1816,7 +1945,8 @@
       },
       "floral_host": "Zinnia sp. (leaves)",
       "latitude": "45.489880",
-      "longitude": "-122.610284"
+      "longitude": "-122.610284",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -1830,7 +1960,8 @@
       },
       "floral_host": "Cosmos bipinnata",
       "latitude": "45.489880",
-      "longitude": "-122.610284"
+      "longitude": "-122.610284",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -1844,7 +1975,8 @@
       },
       "floral_host": "Cosmos bipinnata",
       "latitude": "45.489880",
-      "longitude": "-122.610284"
+      "longitude": "-122.610284",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -1858,7 +1990,8 @@
       },
       "floral_host": "Nicotiana sp.",
       "latitude": "45.489880",
-      "longitude": "-122.610284"
+      "longitude": "-122.610284",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -1872,7 +2005,8 @@
       },
       "floral_host": "Penstemon sp. (UK variety)",
       "latitude": "45.518774",
-      "longitude": "-122.611065"
+      "longitude": "-122.611065",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -1886,7 +2020,8 @@
       },
       "floral_host": "Eschscholzia californica",
       "latitude": "45.489880",
-      "longitude": "-122.610284"
+      "longitude": "-122.610284",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -1900,7 +2035,8 @@
       },
       "floral_host": "Zinnia sp. (leaves)",
       "latitude": "45.489880",
-      "longitude": "-122.610284"
+      "longitude": "-122.610284",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -1914,7 +2050,8 @@
       },
       "floral_host": "Delphinium sp. (native variety)",
       "latitude": "45.489880",
-      "longitude": "-122.610284"
+      "longitude": "-122.610284",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -1928,7 +2065,8 @@
       },
       "floral_host": "Coreopsis tinctoria",
       "latitude": "45.489880",
-      "longitude": "-122.610284"
+      "longitude": "-122.610284",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -1942,7 +2080,8 @@
       },
       "floral_host": "Gaillardia sp.",
       "latitude": "45.518774",
-      "longitude": "-122.611065"
+      "longitude": "-122.611065",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -1956,7 +2095,8 @@
       },
       "floral_host": "Zinnia sp.",
       "latitude": "45.489880",
-      "longitude": "-122.610284"
+      "longitude": "-122.610284",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -1970,7 +2110,8 @@
       },
       "floral_host": "Veronica sp. (UK variety)",
       "latitude": "45.489880",
-      "longitude": "-122.610284"
+      "longitude": "-122.610284",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -1984,7 +2125,8 @@
       },
       "floral_host": "Echinacea purpurea 'Prairie Fire'",
       "latitude": "45.489880",
-      "longitude": "-122.610284"
+      "longitude": "-122.610284",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -1998,7 +2140,8 @@
       },
       "floral_host": "Cosmos bipinnata",
       "latitude": "45.489880",
-      "longitude": "-122.610284"
+      "longitude": "-122.610284",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -2012,7 +2155,8 @@
       },
       "floral_host": "Echinacea purpurea",
       "latitude": "45.489880",
-      "longitude": "-122.610284"
+      "longitude": "-122.610284",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -2026,7 +2170,8 @@
       },
       "floral_host": "Ceanothus sp. (California lilac)",
       "latitude": "45.489880",
-      "longitude": "-122.610284"
+      "longitude": "-122.610284",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -2040,7 +2185,8 @@
       },
       "floral_host": "Centaurea cyanus",
       "latitude": "45.489880",
-      "longitude": "-122.610284"
+      "longitude": "-122.610284",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -2054,7 +2200,8 @@
       },
       "floral_host": "Daffodil (Narcissus sp.)",
       "latitude": "45.518774",
-      "longitude": "-122.611065"
+      "longitude": "-122.611065",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -2068,7 +2215,8 @@
       },
       "floral_host": "Viburnum bodnantense 'Dawn'",
       "latitude": "45.520253",
-      "longitude": "-122.608487"
+      "longitude": "-122.608487",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -2082,7 +2230,8 @@
       },
       "floral_host": "Dahlia 'Rosy Wings'",
       "latitude": "45.472916",
-      "longitude": "-122.602648"
+      "longitude": "-122.602648",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -2096,7 +2245,8 @@
       },
       "floral_host": "Edgeworthia chrysantha",
       "latitude": "45.520253",
-      "longitude": "-122.608487"
+      "longitude": "-122.608487",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -2110,7 +2260,8 @@
       },
       "floral_host": "Crimson clover (Trifolium incarnatum)",
       "latitude": "45.489880",
-      "longitude": "-122.610284"
+      "longitude": "-122.610284",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -2124,7 +2275,8 @@
       },
       "floral_host": "Tomatillo",
       "latitude": "45.529079",
-      "longitude": "-122.580697"
+      "longitude": "-122.580697",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -2138,7 +2290,8 @@
       },
       "floral_host": "Sunflower",
       "latitude": "45.482731",
-      "longitude": "-122.732472"
+      "longitude": "-122.732472",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -2152,7 +2305,8 @@
       },
       "floral_host": "Zinnia Elegans",
       "latitude": "45.558595",
-      "longitude": "-122.691596"
+      "longitude": "-122.691596",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -2166,7 +2320,8 @@
       },
       "floral_host": "Zinnia Elegans",
       "latitude": "45.523062",
-      "longitude": "-122.676482"
+      "longitude": "-122.676482",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -2180,7 +2335,8 @@
       },
       "floral_host": "",
       "latitude": "45.512260",
-      "longitude": "-122.610568"
+      "longitude": "-122.610568",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -2194,7 +2350,8 @@
       },
       "floral_host": "Cultivated Rose",
       "latitude": "45.490740",
-      "longitude": "-122.723165"
+      "longitude": "-122.723165",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -2208,7 +2365,8 @@
       },
       "floral_host": "Composites, bee balm",
       "latitude": "45.509784",
-      "longitude": "-122.715322"
+      "longitude": "-122.715322",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -2222,7 +2380,8 @@
       },
       "floral_host": "",
       "latitude": "45.509784",
-      "longitude": "-122.715322"
+      "longitude": "-122.715322",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -2236,7 +2395,8 @@
       },
       "floral_host": "",
       "latitude": "45.498773",
-      "longitude": "-122.632484"
+      "longitude": "-122.632484",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -2250,7 +2410,8 @@
       },
       "floral_host": "Grosso lavendar",
       "latitude": "45.524905",
-      "longitude": "-122.581759"
+      "longitude": "-122.581759",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -2264,7 +2425,8 @@
       },
       "floral_host": "lavender",
       "latitude": "45.523062",
-      "longitude": "-122.676482"
+      "longitude": "-122.676482",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -2278,7 +2440,8 @@
       },
       "floral_host": "",
       "latitude": "45.498383",
-      "longitude": "-122.629603"
+      "longitude": "-122.629603",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -2292,7 +2455,8 @@
       },
       "floral_host": "",
       "latitude": "45.526198",
-      "longitude": "-122.624624"
+      "longitude": "-122.624624",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -2306,7 +2470,8 @@
       },
       "floral_host": "Sea Pink, Spanish Lavender, Yellow Monkey Flower",
       "latitude": "45.532278",
-      "longitude": "-122.584553"
+      "longitude": "-122.584553",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -2320,7 +2485,8 @@
       },
       "floral_host": "Some sort of wildflower",
       "latitude": "45.442212",
-      "longitude": "-122.734485"
+      "longitude": "-122.734485",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -2334,7 +2500,8 @@
       },
       "floral_host": "Lavender",
       "latitude": "45.556191",
-      "longitude": "-122.637188"
+      "longitude": "-122.637188",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -2348,7 +2515,8 @@
       },
       "floral_host": "cosmos",
       "latitude": "45.552416",
-      "longitude": "-122.659288"
+      "longitude": "-122.659288",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -2362,7 +2530,8 @@
       },
       "floral_host": "fireweed",
       "latitude": "45.514792",
-      "longitude": "-122.570188"
+      "longitude": "-122.570188",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -2376,7 +2545,8 @@
       },
       "floral_host": "Borage , cosmos",
       "latitude": "45.552416",
-      "longitude": "-122.659288"
+      "longitude": "-122.659288",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -2390,7 +2560,8 @@
       },
       "floral_host": "Eggplant ",
       "latitude": "45.556191",
-      "longitude": "-122.637188"
+      "longitude": "-122.637188",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -2404,7 +2575,8 @@
       },
       "floral_host": "Bumblebee Asteria",
       "latitude": "45.513122",
-      "longitude": "-122.601564"
+      "longitude": "-122.601564",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -2418,7 +2590,8 @@
       },
       "floral_host": "Borage",
       "latitude": "45.552416",
-      "longitude": "-122.659288"
+      "longitude": "-122.659288",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -2432,7 +2605,8 @@
       },
       "floral_host": "Borage",
       "latitude": "45.552416",
-      "longitude": "-122.659288"
+      "longitude": "-122.659288",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -2446,7 +2620,8 @@
       },
       "floral_host": "Borage",
       "latitude": "45.552416",
-      "longitude": "-122.659288"
+      "longitude": "-122.659288",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -2460,7 +2635,8 @@
       },
       "floral_host": "Borage",
       "latitude": "45.552416",
-      "longitude": "-122.659288"
+      "longitude": "-122.659288",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -2474,7 +2650,8 @@
       },
       "floral_host": "",
       "latitude": "45.439543",
-      "longitude": "-122.735481"
+      "longitude": "-122.735481",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -2488,7 +2665,8 @@
       },
       "floral_host": "",
       "latitude": "45.542913",
-      "longitude": "-122.636270"
+      "longitude": "-122.636270",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -2502,7 +2680,8 @@
       },
       "floral_host": "",
       "latitude": "45.542913",
-      "longitude": "-122.636270"
+      "longitude": "-122.636270",
+      "sightingstatus_id": 3
     }
   },
   {
@@ -2516,7 +2695,8 @@
       },
       "floral_host": "Himalayan blackberry",
       "latitude": "45.511177",
-      "longitude": "-122.598980"
+      "longitude": "-122.598980",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -2530,7 +2710,8 @@
       },
       "floral_host": "California poppy",
       "latitude": "45.515519",
-      "longitude": "-122.617260"
+      "longitude": "-122.617260",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -2544,7 +2725,8 @@
       },
       "floral_host": "",
       "latitude": "45.514534",
-      "longitude": "-122.619798"
+      "longitude": "-122.619798",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -2558,7 +2740,8 @@
       },
       "floral_host": "Raspberry?",
       "latitude": "45.553485",
-      "longitude": "-122.616907"
+      "longitude": "-122.616907",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -2572,7 +2755,8 @@
       },
       "floral_host": "Vicia americana",
       "latitude": "45.544511",
-      "longitude": "-122.575816"
+      "longitude": "-122.575816",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -2586,7 +2770,8 @@
       },
       "floral_host": "Himalayan blackberry",
       "latitude": "45.498854",
-      "longitude": "-122.558738"
+      "longitude": "-122.558738",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -2600,7 +2785,8 @@
       },
       "floral_host": "Nepeta x faassenii and Heuchera sanguinium",
       "latitude": "45.470119",
-      "longitude": "-122.711872"
+      "longitude": "-122.711872",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -2614,7 +2800,8 @@
       },
       "floral_host": "Ceanothus sp.",
       "latitude": "45.496282",
-      "longitude": "-122.715542"
+      "longitude": "-122.715542",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -2628,7 +2815,8 @@
       },
       "floral_host": "Ceanothus sp.",
       "latitude": "45.496282",
-      "longitude": "-122.715542"
+      "longitude": "-122.715542",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -2642,7 +2830,8 @@
       },
       "floral_host": "Ceanothus sp.",
       "latitude": "45.496282",
-      "longitude": "-122.715542"
+      "longitude": "-122.715542",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -2656,7 +2845,8 @@
       },
       "floral_host": "Ceanothus sp.",
       "latitude": "45.496282",
-      "longitude": "-122.715542"
+      "longitude": "-122.715542",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -2670,7 +2860,8 @@
       },
       "floral_host": "Some sort of Dogwood",
       "latitude": "45.518496",
-      "longitude": "-122.705612"
+      "longitude": "-122.705612",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -2684,7 +2875,8 @@
       },
       "floral_host": "Penstemon so.",
       "latitude": "45.515968",
-      "longitude": "-122.715858"
+      "longitude": "-122.715858",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -2698,7 +2890,8 @@
       },
       "floral_host": "Hydrophyllum sp.",
       "latitude": "45.570006",
-      "longitude": "-122.763237"
+      "longitude": "-122.763237",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -2712,7 +2905,8 @@
       },
       "floral_host": "Hydrophyllum sp.",
       "latitude": "45.565961",
-      "longitude": "-122.758554"
+      "longitude": "-122.758554",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -2726,7 +2920,8 @@
       },
       "floral_host": "Waterleaf (Hydrophyllum sp.)",
       "latitude": "45.565961",
-      "longitude": "-122.758554"
+      "longitude": "-122.758554",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -2740,7 +2935,8 @@
       },
       "floral_host": "Patrolling Male",
       "latitude": "45.490740",
-      "longitude": "-122.723165"
+      "longitude": "-122.723165",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -2754,7 +2950,8 @@
       },
       "floral_host": "Rhododendron",
       "latitude": "45.490740",
-      "longitude": "-122.723165"
+      "longitude": "-122.723165",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -2768,7 +2965,8 @@
       },
       "floral_host": "Some flowering collards that I let go to seed. ",
       "latitude": "45.558514",
-      "longitude": "-122.677644"
+      "longitude": "-122.677644",
+      "sightingstatus_id": 3
     }
   },
   {
@@ -2782,7 +2980,8 @@
       },
       "floral_host": "Ceanothus thyrsiflorus",
       "latitude": "45.595934",
-      "longitude": "-122.739950"
+      "longitude": "-122.739950",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -2796,7 +2995,8 @@
       },
       "floral_host": "California lilac",
       "latitude": "45.489880",
-      "longitude": "-122.610284"
+      "longitude": "-122.610284",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -2810,7 +3010,8 @@
       },
       "floral_host": "California lilac",
       "latitude": "45.489880",
-      "longitude": "-122.610284"
+      "longitude": "-122.610284",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -2824,7 +3025,8 @@
       },
       "floral_host": "",
       "latitude": "45.552416",
-      "longitude": "-122.659288"
+      "longitude": "-122.659288",
+      "sightingstatus_id": 3
     }
   },
   {
@@ -2838,7 +3040,8 @@
       },
       "floral_host": "",
       "latitude": "45.493384",
-      "longitude": "-122.736721"
+      "longitude": "-122.736721",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -2852,7 +3055,8 @@
       },
       "floral_host": "namesia",
       "latitude": "45.500136",
-      "longitude": "-122.430201"
+      "longitude": "-122.430201",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -2866,7 +3070,8 @@
       },
       "floral_host": "",
       "latitude": "45.519871",
-      "longitude": "-122.662302"
+      "longitude": "-122.662302",
+      "sightingstatus_id": 3
     }
   },
   {
@@ -2880,7 +3085,8 @@
       },
       "floral_host": "none",
       "latitude": "45.513493",
-      "longitude": "-122.616327"
+      "longitude": "-122.616327",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -2894,7 +3100,8 @@
       },
       "floral_host": "Rosemary shrub",
       "latitude": "45.513116",
-      "longitude": "-122.603112"
+      "longitude": "-122.603112",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -2908,7 +3115,8 @@
       },
       "floral_host": "None, was circling around its nest",
       "latitude": "45.464056",
-      "longitude": "-122.720397"
+      "longitude": "-122.720397",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -2922,7 +3130,8 @@
       },
       "floral_host": "",
       "latitude": "45.520253",
-      "longitude": "-122.608487"
+      "longitude": "-122.608487",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -2936,7 +3145,8 @@
       },
       "floral_host": "",
       "latitude": "45.520253",
-      "longitude": "-122.608487"
+      "longitude": "-122.608487",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -2950,7 +3160,8 @@
       },
       "floral_host": "Mahonia Nervosa",
       "latitude": "45.463367",
-      "longitude": "-122.617404"
+      "longitude": "-122.617404",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -2964,7 +3175,8 @@
       },
       "floral_host": "Bidens cernua",
       "latitude": "45.617591",
-      "longitude": "-122.730691"
+      "longitude": "-122.730691",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -2978,7 +3190,8 @@
       },
       "floral_host": "Bidens cernua",
       "latitude": "45.617591",
-      "longitude": "-122.730691"
+      "longitude": "-122.730691",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -2992,7 +3205,8 @@
       },
       "floral_host": "",
       "latitude": "45.563991",
-      "longitude": "-122.629934"
+      "longitude": "-122.629934",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -3006,7 +3220,8 @@
       },
       "floral_host": "",
       "latitude": "45.523008",
-      "longitude": "-122.689780"
+      "longitude": "-122.689780",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -3020,7 +3235,8 @@
       },
       "floral_host": "lavender",
       "latitude": "45.521143",
-      "longitude": "-122.637978"
+      "longitude": "-122.637978",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -3034,7 +3250,8 @@
       },
       "floral_host": "Cosmos sulphureus",
       "latitude": "45.485637",
-      "longitude": "-122.594626"
+      "longitude": "-122.594626",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -3048,7 +3265,8 @@
       },
       "floral_host": "tomatoes ",
       "latitude": "45.523452",
-      "longitude": "-122.676207"
+      "longitude": "-122.676207",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -3062,7 +3280,8 @@
       },
       "floral_host": "Sun Gold tomatoes",
       "latitude": "45.523452",
-      "longitude": "-122.676207"
+      "longitude": "-122.676207",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -3076,7 +3295,8 @@
       },
       "floral_host": "California Poppy, Eschscholzia Californica",
       "latitude": "45.575600",
-      "longitude": "-122.715830"
+      "longitude": "-122.715830",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -3090,7 +3310,8 @@
       },
       "floral_host": "Raspberry flowers and purple clover",
       "latitude": "45.562434",
-      "longitude": "-122.656614"
+      "longitude": "-122.656614",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -3104,7 +3325,8 @@
       },
       "floral_host": "Spirea",
       "latitude": "45.513988",
-      "longitude": "-122.581749"
+      "longitude": "-122.581749",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -3118,7 +3340,8 @@
       },
       "floral_host": "Lupin",
       "latitude": "45.513988",
-      "longitude": "-122.581749"
+      "longitude": "-122.581749",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -3132,7 +3355,8 @@
       },
       "floral_host": "Lupin",
       "latitude": "45.513988",
-      "longitude": "-122.581749"
+      "longitude": "-122.581749",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -3146,7 +3370,8 @@
       },
       "floral_host": "clover",
       "latitude": "45.595934",
-      "longitude": "-122.739950"
+      "longitude": "-122.739950",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -3160,7 +3385,8 @@
       },
       "floral_host": "lavender",
       "latitude": "45.529079",
-      "longitude": "-122.580697"
+      "longitude": "-122.580697",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -3174,7 +3400,8 @@
       },
       "floral_host": "",
       "latitude": "45.564431",
-      "longitude": "-122.630337"
+      "longitude": "-122.630337",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -3188,7 +3415,8 @@
       },
       "floral_host": "",
       "latitude": "45.546083",
-      "longitude": "-122.514932"
+      "longitude": "-122.514932",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -3202,7 +3430,8 @@
       },
       "floral_host": "spirea",
       "latitude": "45.529079",
-      "longitude": "-122.580697"
+      "longitude": "-122.580697",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -3216,7 +3445,8 @@
       },
       "floral_host": "Eschscholzia californica",
       "latitude": "45.547724",
-      "longitude": "-122.625263"
+      "longitude": "-122.625263",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -3230,7 +3460,8 @@
       },
       "floral_host": "Lavender",
       "latitude": "45.473558",
-      "longitude": "-122.530711"
+      "longitude": "-122.530711",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -3244,7 +3475,8 @@
       },
       "floral_host": "",
       "latitude": "45.566652",
-      "longitude": "-122.694218"
+      "longitude": "-122.694218",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -3258,7 +3490,8 @@
       },
       "floral_host": "",
       "latitude": "45.567512",
-      "longitude": "-122.694368"
+      "longitude": "-122.694368",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -3272,7 +3505,8 @@
       },
       "floral_host": "Himalayan blackberry",
       "latitude": "45.514805",
-      "longitude": "-122.606760"
+      "longitude": "-122.606760",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -3286,7 +3520,8 @@
       },
       "floral_host": "(Siberian) Blackberry",
       "latitude": "45.524278",
-      "longitude": "-122.640962"
+      "longitude": "-122.640962",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -3300,7 +3535,8 @@
       },
       "floral_host": "(Siberian) Blackberry",
       "latitude": "45.524278",
-      "longitude": "-122.640962"
+      "longitude": "-122.640962",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -3314,7 +3550,8 @@
       },
       "floral_host": "",
       "latitude": "45.515705",
-      "longitude": "-122.616512"
+      "longitude": "-122.616512",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -3328,7 +3565,8 @@
       },
       "floral_host": "Foxglove",
       "latitude": "45.515704",
-      "longitude": "-122.617075"
+      "longitude": "-122.617075",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -3342,7 +3580,8 @@
       },
       "floral_host": "",
       "latitude": "45.514992",
-      "longitude": "-122.617749"
+      "longitude": "-122.617749",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -3356,7 +3595,8 @@
       },
       "floral_host": "Geranium?",
       "latitude": "45.514992",
-      "longitude": "-122.617887"
+      "longitude": "-122.617887",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -3370,7 +3610,8 @@
       },
       "floral_host": "Ceanothus",
       "latitude": "45.515519",
-      "longitude": "-122.617260"
+      "longitude": "-122.617260",
+      "sightingstatus_id": 3
     }
   },
   {
@@ -3384,7 +3625,8 @@
       },
       "floral_host": "Sidalcea campestris (native checkermallow)",
       "latitude": "45.567595",
-      "longitude": "-122.617884"
+      "longitude": "-122.617884",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -3398,7 +3640,8 @@
       },
       "floral_host": "Ceanothus",
       "latitude": "45.515519",
-      "longitude": "-122.617260"
+      "longitude": "-122.617260",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -3412,7 +3655,8 @@
       },
       "floral_host": "Ceanothus",
       "latitude": "45.515519",
-      "longitude": "-122.617260"
+      "longitude": "-122.617260",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -3426,7 +3670,8 @@
       },
       "floral_host": "Hydrophyllum tenuipes",
       "latitude": "45.497961",
-      "longitude": "-122.692681"
+      "longitude": "-122.692681",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -3440,7 +3685,8 @@
       },
       "floral_host": "",
       "latitude": "45.517676",
-      "longitude": "-122.492240"
+      "longitude": "-122.492240",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -3454,7 +3700,8 @@
       },
       "floral_host": "",
       "latitude": "45.514293",
-      "longitude": "-122.601585"
+      "longitude": "-122.601585",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -3468,7 +3715,8 @@
       },
       "floral_host": "Bleeding Hearts",
       "latitude": "45.473715",
-      "longitude": "-122.530752"
+      "longitude": "-122.530752",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -3482,7 +3730,8 @@
       },
       "floral_host": "Rhododendron",
       "latitude": "45.473823",
-      "longitude": "-122.530831"
+      "longitude": "-122.530831",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -3496,7 +3745,8 @@
       },
       "floral_host": "Onion",
       "latitude": "45.473860",
-      "longitude": "-122.530966"
+      "longitude": "-122.530966",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -3510,7 +3760,8 @@
       },
       "floral_host": "Rhododendron",
       "latitude": "45.473823",
-      "longitude": "-122.530831"
+      "longitude": "-122.530831",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -3524,7 +3775,8 @@
       },
       "floral_host": "Ash",
       "latitude": "45.473823",
-      "longitude": "-122.530831"
+      "longitude": "-122.530831",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -3538,7 +3790,8 @@
       },
       "floral_host": "Boisenberry",
       "latitude": "45.498356",
-      "longitude": "-122.601579"
+      "longitude": "-122.601579",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -3552,7 +3805,8 @@
       },
       "floral_host": "Rhododendrons",
       "latitude": "45.501999",
-      "longitude": "-122.594913"
+      "longitude": "-122.594913",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -3566,7 +3820,8 @@
       },
       "floral_host": "",
       "latitude": "45.492283",
-      "longitude": "-122.725787"
+      "longitude": "-122.725787",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -3580,7 +3835,8 @@
       },
       "floral_host": "",
       "latitude": "45.492283",
-      "longitude": "-122.725787"
+      "longitude": "-122.725787",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -3594,7 +3850,8 @@
       },
       "floral_host": "",
       "latitude": "45.492283",
-      "longitude": "-122.725787"
+      "longitude": "-122.725787",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -3608,7 +3865,8 @@
       },
       "floral_host": "lupine",
       "latitude": "45.539286",
-      "longitude": "-122.387313"
+      "longitude": "-122.387313",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -3622,7 +3880,8 @@
       },
       "floral_host": "lupine",
       "latitude": "45.595233",
-      "longitude": "-122.713004"
+      "longitude": "-122.713004",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -3636,7 +3895,8 @@
       },
       "floral_host": "Rhododendron",
       "latitude": "45.463636",
-      "longitude": "-122.704898"
+      "longitude": "-122.704898",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -3650,7 +3910,8 @@
       },
       "floral_host": "Onion",
       "latitude": "45.473925",
-      "longitude": "-122.530986"
+      "longitude": "-122.530986",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -3664,7 +3925,8 @@
       },
       "floral_host": "Chive ",
       "latitude": "45.473926",
-      "longitude": "-122.530986"
+      "longitude": "-122.530986",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -3678,7 +3940,8 @@
       },
       "floral_host": "Rhododendron",
       "latitude": "45.498301",
-      "longitude": "-122.601864"
+      "longitude": "-122.601864",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -3692,7 +3955,8 @@
       },
       "floral_host": "Ceanothus",
       "latitude": "45.560223",
-      "longitude": "-122.690196"
+      "longitude": "-122.690196",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -3706,7 +3970,8 @@
       },
       "floral_host": "Raspberry",
       "latitude": "45.560223",
-      "longitude": "-122.690196"
+      "longitude": "-122.690196",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -3720,7 +3985,8 @@
       },
       "floral_host": "not sure",
       "latitude": "45.539286",
-      "longitude": "-122.387313"
+      "longitude": "-122.387313",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -3734,7 +4000,8 @@
       },
       "floral_host": "Cotoneaster",
       "latitude": "45.473678",
-      "longitude": "-122.530550"
+      "longitude": "-122.530550",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -3748,7 +4015,8 @@
       },
       "floral_host": "Apple",
       "latitude": "45.473642",
-      "longitude": "-122.531081"
+      "longitude": "-122.531081",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -3762,7 +4030,8 @@
       },
       "floral_host": "cotoneaster",
       "latitude": "45.473679",
-      "longitude": "-122.530539"
+      "longitude": "-122.530539",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -3776,7 +4045,8 @@
       },
       "floral_host": "Rosemary",
       "latitude": "45.473558",
-      "longitude": "-122.530711"
+      "longitude": "-122.530711",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -3790,7 +4060,8 @@
       },
       "floral_host": "Barberry",
       "latitude": "45.473895",
-      "longitude": "-122.530915"
+      "longitude": "-122.530915",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -3804,7 +4075,8 @@
       },
       "floral_host": "Barberry",
       "latitude": "45.473939",
-      "longitude": "-122.530882"
+      "longitude": "-122.530882",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -3818,7 +4090,8 @@
       },
       "floral_host": "Barberry",
       "latitude": "45.473943",
-      "longitude": "-122.530893"
+      "longitude": "-122.530893",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -3832,7 +4105,8 @@
       },
       "floral_host": "Barberry",
       "latitude": "45.473938",
-      "longitude": "-122.530888"
+      "longitude": "-122.530888",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -3846,7 +4120,8 @@
       },
       "floral_host": "Lupinus rivularis - riverbank lupine",
       "latitude": "45.595934",
-      "longitude": "-122.739950"
+      "longitude": "-122.739950",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -3860,7 +4135,8 @@
       },
       "floral_host": "N/A",
       "latitude": "45.517136",
-      "longitude": "-122.620341"
+      "longitude": "-122.620341",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -3874,7 +4150,8 @@
       },
       "floral_host": "rhododendron",
       "latitude": "45.538177",
-      "longitude": "-122.632441"
+      "longitude": "-122.632441",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -3888,7 +4165,8 @@
       },
       "floral_host": "",
       "latitude": "45.546624",
-      "longitude": "-122.445284"
+      "longitude": "-122.445284",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -3902,7 +4180,8 @@
       },
       "floral_host": "Cotoneaster",
       "latitude": "45.473682",
-      "longitude": "-122.530539"
+      "longitude": "-122.530539",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -3916,7 +4195,8 @@
       },
       "floral_host": "cotoneaster",
       "latitude": "45.473673",
-      "longitude": "-122.530539"
+      "longitude": "-122.530539",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -3930,7 +4210,8 @@
       },
       "floral_host": "Blueberry",
       "latitude": "45.473610",
-      "longitude": "-122.530570"
+      "longitude": "-122.530570",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -3944,7 +4225,8 @@
       },
       "floral_host": "Blueberry",
       "latitude": "45.473686",
-      "longitude": "-122.530732"
+      "longitude": "-122.530732",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -3958,7 +4240,8 @@
       },
       "floral_host": "spirea",
       "latitude": "45.537016",
-      "longitude": "-122.632999"
+      "longitude": "-122.632999",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -3972,7 +4255,8 @@
       },
       "floral_host": "blueberry ",
       "latitude": "45.515842",
-      "longitude": "-122.491826"
+      "longitude": "-122.491826",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -3986,7 +4270,8 @@
       },
       "floral_host": "blueberry ",
       "latitude": "45.515842",
-      "longitude": "-122.491826"
+      "longitude": "-122.491826",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -4000,7 +4285,8 @@
       },
       "floral_host": "",
       "latitude": "45.589924",
-      "longitude": "-122.738432"
+      "longitude": "-122.738432",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -4014,7 +4300,8 @@
       },
       "floral_host": "Raspberry plants",
       "latitude": "45.513983",
-      "longitude": "-122.628496"
+      "longitude": "-122.628496",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -4028,7 +4315,8 @@
       },
       "floral_host": "Daphne",
       "latitude": "45.497229",
-      "longitude": "-122.492257"
+      "longitude": "-122.492257",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -4042,7 +4330,8 @@
       },
       "floral_host": "Black currant",
       "latitude": "45.473698",
-      "longitude": "-122.530732"
+      "longitude": "-122.530732",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -4056,7 +4345,8 @@
       },
       "floral_host": "Bleeding Hearts",
       "latitude": "45.473713",
-      "longitude": "-122.530732"
+      "longitude": "-122.530732",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -4070,7 +4360,8 @@
       },
       "floral_host": "Black currant",
       "latitude": "45.473676",
-      "longitude": "-122.530775"
+      "longitude": "-122.530775",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -4084,7 +4375,8 @@
       },
       "floral_host": "Oregon Grape",
       "latitude": "45.473662",
-      "longitude": "-122.530845"
+      "longitude": "-122.530845",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -4098,7 +4390,8 @@
       },
       "floral_host": "Rosemary shrub",
       "latitude": "45.562482",
-      "longitude": "-122.656507"
+      "longitude": "-122.656507",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -4112,7 +4405,8 @@
       },
       "floral_host": "Oregon Grape",
       "latitude": "45.473652",
-      "longitude": "-122.530851"
+      "longitude": "-122.530851",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -4126,7 +4420,8 @@
       },
       "floral_host": "Oregon Grape",
       "latitude": "45.473650",
-      "longitude": "-122.530837"
+      "longitude": "-122.530837",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -4140,7 +4435,8 @@
       },
       "floral_host": "Oregon Grape",
       "latitude": "45.473666",
-      "longitude": "-122.530845"
+      "longitude": "-122.530845",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -4154,7 +4450,8 @@
       },
       "floral_host": "",
       "latitude": "45.470201",
-      "longitude": "-122.646346"
+      "longitude": "-122.646346",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -4168,7 +4465,8 @@
       },
       "floral_host": "Oregon Grape",
       "latitude": "45.473666",
-      "longitude": "-122.530841"
+      "longitude": "-122.530841",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -4182,7 +4480,8 @@
       },
       "floral_host": "dahlia",
       "latitude": "45.473638",
-      "longitude": "-122.530853"
+      "longitude": "-122.530853",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -4196,7 +4495,8 @@
       },
       "floral_host": "oregano",
       "latitude": "45.473688",
-      "longitude": "-122.530672"
+      "longitude": "-122.530672",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -4210,7 +4510,8 @@
       },
       "floral_host": "Lavender",
       "latitude": "45.473666",
-      "longitude": "-122.530835"
+      "longitude": "-122.530835",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -4224,7 +4525,8 @@
       },
       "floral_host": "salvia",
       "latitude": "45.473675",
-      "longitude": "-122.530683"
+      "longitude": "-122.530683",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -4238,7 +4540,8 @@
       },
       "floral_host": "Lavender",
       "latitude": "45.473608",
-      "longitude": "-122.530729"
+      "longitude": "-122.530729",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -4252,7 +4555,8 @@
       },
       "floral_host": "onion",
       "latitude": "45.473868",
-      "longitude": "-122.530885"
+      "longitude": "-122.530885",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -4266,7 +4570,8 @@
       },
       "floral_host": "onion",
       "latitude": "45.473868",
-      "longitude": "-122.530885"
+      "longitude": "-122.530885",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -4280,7 +4585,8 @@
       },
       "floral_host": "Rhododendron",
       "latitude": "45.473841",
-      "longitude": "-122.530784"
+      "longitude": "-122.530784",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -4294,7 +4600,8 @@
       },
       "floral_host": "chive",
       "latitude": "45.473675",
-      "longitude": "-122.530629"
+      "longitude": "-122.530629",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -4308,7 +4615,8 @@
       },
       "floral_host": "chive",
       "latitude": "45.473702",
-      "longitude": "-122.530746"
+      "longitude": "-122.530746",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -4322,7 +4630,8 @@
       },
       "floral_host": "red clover",
       "latitude": "45.473890",
-      "longitude": "-122.530935"
+      "longitude": "-122.530935",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -4336,7 +4645,8 @@
       },
       "floral_host": "red clover",
       "latitude": "45.473849",
-      "longitude": "-122.530949"
+      "longitude": "-122.530949",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -4350,7 +4660,8 @@
       },
       "floral_host": "Cotoneaster",
       "latitude": "45.473660",
-      "longitude": "-122.530570"
+      "longitude": "-122.530570",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -4364,7 +4675,8 @@
       },
       "floral_host": "Cotoneaster",
       "latitude": "45.473660",
-      "longitude": "-122.530570"
+      "longitude": "-122.530570",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -4378,7 +4690,8 @@
       },
       "floral_host": "Blueberry",
       "latitude": "45.473909",
-      "longitude": "-122.530917"
+      "longitude": "-122.530917",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -4392,7 +4705,8 @@
       },
       "floral_host": "Blueberry",
       "latitude": "45.473913",
-      "longitude": "-122.530924"
+      "longitude": "-122.530924",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -4406,7 +4720,8 @@
       },
       "floral_host": "Oregon Grape",
       "latitude": "45.473680",
-      "longitude": "-122.530890"
+      "longitude": "-122.530890",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -4420,7 +4735,8 @@
       },
       "floral_host": "Crocus",
       "latitude": "45.473715",
-      "longitude": "-122.530738"
+      "longitude": "-122.530738",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -4434,7 +4750,8 @@
       },
       "floral_host": "Smooth Blue Aster (Symphyotrichum laeve)",
       "latitude": "45.485668",
-      "longitude": "-122.615973"
+      "longitude": "-122.615973",
+      "sightingstatus_id": 2
     }
   },
   {
@@ -4448,7 +4765,8 @@
       },
       "floral_host": "Smooth Blue Aster (Symphyotrichum laeve)",
       "latitude": "45.485668",
-      "longitude": "-122.615973"
+      "longitude": "-122.615973",
+      "sightingstatus_id": 1
     }
   },
   {
@@ -4462,7 +4780,8 @@
       },
       "floral_host": "Bluebells",
       "latitude": "45.560223",
-      "longitude": "-122.690196"
+      "longitude": "-122.690196",
+      "sightingstatus_id": 2
     }
   }
 ]

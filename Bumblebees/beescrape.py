@@ -23,10 +23,10 @@ class XercesScraper:
         return response.json()
 
     def parse_sightings(self, data):
-
+        # TODO pull in sightingstatus_id (1 = not verified, 2 = verified)
         # Make list of dictionary keys to be kept
         keepers = ["bee_id", "common_name", "floral_host", "latitude",
-                   "longitude", "dateidentified"]
+                   "longitude", "dateidentified", "sightingstatus_id"]
 
         # temporary container for bee ids on a particular page
         tmp_list = []
