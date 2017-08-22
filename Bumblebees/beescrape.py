@@ -4,7 +4,6 @@
 
 # Import dependencies
 import json
-from lxml.etree import fromstring
 import requests
 
 # Create a Scraper object
