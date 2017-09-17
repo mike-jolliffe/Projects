@@ -1,2 +1,3 @@
 .idea/
 __pycache__/
+/Rick_Roll/api_credentials.py
