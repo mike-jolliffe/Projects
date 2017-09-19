@@ -1,4 +1,4 @@
-from api_credentials.py import FROM_NUM, TO_NUM, TWILIO_ACCOUNT_SID, TWILIO_AUTH_TOKEN, TWILIO_NEW_NUM_SID
+from api_credentials import FROM_NUM, TO_NUM, TWILIO_ACCOUNT_SID, TWILIO_AUTH_TOKEN, TWILIO_NEW_NUM_SID
 
 from twilio.rest import Client
 
