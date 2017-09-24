@@ -21,9 +21,8 @@ conn = sqlite3.connect('bee_sightingsPK.sqlite')
 cur = conn.cursor()
 
 # create a table for the data
-cur.execute('''CREATE table bee_sightings(id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
-               bee_id INTEGER, common_name TEXT, dateidentified DATETIME,
-               latitude REAL, longitude REAL, floral_host TEXT,
+cur.execute('''CREATE table bee_sightings(id INTEGER PRIMARY KEY, bee_id INTEGER, common_name TEXT, 
+               dateidentified DATETIME, latitude REAL, longitude REAL, floral_host TEXT,
                sightingstatus_id INTEGER)''')
 
 # Insert data into the table
