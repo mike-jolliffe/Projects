@@ -17,13 +17,14 @@ for item in data:
     item["dateidentified"] = item["dateidentified"]["date"]
 
 # create a new database file and generate a cursor for SQL execution
-conn = sqlite3.connect('bee_sightings.sqlite')
+conn = sqlite3.connect('bee_sightingsPK.sqlite')
 cur = conn.cursor()
 
 # create a table for the data
-cur.execute('''CREATE table bee_sightings(bee_id INTEGER, common_name TEXT,
-               dateidentified DATETIME, latitude REAL, longitude REAL,
-               floral_host TEXT, sightingstatus_id INTEGER)''')
+cur.execute('''CREATE table bee_sightings(id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+               bee_id INTEGER, common_name TEXT, dateidentified DATETIME,
+               latitude REAL, longitude REAL, floral_host TEXT,
+               sightingstatus_id INTEGER)''')
 
 # Insert data into the table
 cur.executemany('''INSERT INTO bee_sightings(bee_id, common_name, dateidentified,
