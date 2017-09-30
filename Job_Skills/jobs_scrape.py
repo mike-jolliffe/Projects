@@ -18,6 +18,7 @@ class SoupScraper:
             soup_page = BeautifulSoup(resp.text, 'html.parser')
             self.soup.append(soup_page)
 
+
 class SoupParser:
     def __init__(self, SoupScraper):
         self.soup = SoupScraper.soup
@@ -27,10 +28,11 @@ class SoupParser:
         tags = [[tag.contents[start:stop] for tag in page.select(tag)] for page in self.soup]
         flat_list = [item for sublist in tags for item in sublist]
         return flat_list
-#Scrape .<span class="experienceList">
 
 if __name__ == '__main__':
     scraper = SoupScraper('https://www.indeed.com/jobs?q=python&l=Portland%2C+OR')
-    scraper.scrape(34)
+    scraper.scrape(2)  #change to 34 when operational
+    print(scraper.soup)
     parser = SoupParser(scraper)
-    print(parser.soup)
+    data = parser.get_contents_of_tag_type('span.experienceList')
+    print(data)
