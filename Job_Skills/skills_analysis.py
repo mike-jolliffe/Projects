@@ -2,6 +2,7 @@ from collections import Counter
 import itertools
 import json
 import matplotlib.pyplot as plt
+import networkx as nx
 import pandas as pd
 import seaborn as sns
 
@@ -42,6 +43,7 @@ class Visualizer:
         self.skills = skills
         self.flatskills = None
         self.word_count = Counter()
+        self.edgeList = None
 
     def flatten(self):
         """
@@ -100,11 +102,27 @@ class Visualizer:
         # For every job in the list
         for job in self.skills:
             # Return all unique node pairs
-            edge_list.append(tuple(itertools.combinations(job, 2)))
-        return edge_list
+            edge_list.extend(tuple(itertools.combinations(job, 2)))
+        self.edgeList = edge_list
+        return self.edgeList
 
     '''TODO Use networkx to build a network graph of skills. Try to detect any present communities in graph representing
             an ecosystem or stack of tools commonly desired together.'''
+
+    def plot_graph(self):
+        """
+        Builds and plots a network graph
+        :return: None
+        """
+        # Instantiate a Graph object
+        g = nx.Graph()
+
+        # Add all edges from edge list to the object
+        g.add_edges_from(self.edgeList)
+
+        # Plot the graph, sizing nodes by number of occurrences
+        nx.draw(g, nodelist=self.word_count.keys(), with_labels=True, node_size=[v * 10 for v in self.word_count.values()])
+        plt.show()
 
 if __name__ == '__main__':
     data = DataPrepper('jobs.json')
@@ -115,7 +133,8 @@ if __name__ == '__main__':
     visualize.flatten()
     visualize.get_count()
     #visualize.plot_freq()
-    print(visualize.get_all_edges())
+    visualize.get_all_edges()
+    visualize.plot_graph()
 
 
 
