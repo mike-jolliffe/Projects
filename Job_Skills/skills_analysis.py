@@ -44,6 +44,7 @@ class Visualizer:
         self.flatskills = None
         self.word_count = Counter()
         self.edgeList = None
+        self.graph = None
 
     def flatten(self):
         """
@@ -115,16 +116,30 @@ class Visualizer:
         :return: None
         """
         # Instantiate a Graph object
-        g = nx.Graph()
+        self.graph = nx.Graph()
 
         # Add all edges from edge list to the object
-        g.add_edges_from(self.edgeList)
+        self.graph.add_edges_from(self.edgeList)
+
 
         # Plot the graph, sizing nodes by number of occurrences
-        nx.draw(g, nodelist=self.word_count.keys(), with_labels=True, node_size=[v * 10 for v in self.word_count.values()])
-        plt.show()
+        #nx.draw(g, nodelist=self.word_count.keys(), with_labels=True, node_size=[v * 10 for v in self.word_count.values()])
+        #plt.show()
 
-if __name__ == '__main__':
+    def detect_communities(self):
+        """
+        Finds up to k different communities by using Girvan-Newman algorithm for edge removal. Builds dictionary with
+        number of communities as key, and communities themselves as values.
+        :return: Dictionary
+        """
+
+        k = 90
+        comp = nx.algorithms.community.centrality.girvan_newman(self.graph)
+        limited = itertools.takewhile(lambda c: len(c) <= k, comp)
+        for communities in limited:
+             print(tuple(sorted(c) for c in communities))
+
+def run():
     data = DataPrepper('jobs.json')
     raw = data.from_json()
     print(f"Number of job postings scraped: {data.count_jobs(raw)}")
@@ -132,9 +147,13 @@ if __name__ == '__main__':
     visualize = Visualizer(clean)
     visualize.flatten()
     visualize.get_count()
-    #visualize.plot_freq()
+    # visualize.plot_freq()
     visualize.get_all_edges()
     visualize.plot_graph()
+    visualize.detect_communities()
+
+if __name__ == '__main__':
+    run()
 
 
 
