@@ -1,4 +1,5 @@
 from bs4 import BeautifulSoup
+import json
 import requests
 
 
@@ -29,10 +30,16 @@ class SoupParser:
         flat_list = [item for sublist in tags for item in sublist]
         return flat_list
 
+    def to_json(self, list_data):
+        '''Pickles scraped data for later use'''
+        with open('jobs.json', 'w') as js_file:
+            json.dump(list_data, js_file)
+
+
 if __name__ == '__main__':
     scraper = SoupScraper('https://www.indeed.com/jobs?q=python&l=Portland%2C+OR')
-    scraper.scrape(2)  #change to 34 when operational
-    print(scraper.soup)
+    scraper.scrape(34)
     parser = SoupParser(scraper)
     data = parser.get_contents_of_tag_type('span.experienceList')
     print(data)
+    parser.to_json(data)
