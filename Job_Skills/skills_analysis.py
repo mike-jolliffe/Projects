@@ -1,4 +1,5 @@
 from collections import Counter
+import itertools
 import json
 import matplotlib.pyplot as plt
 import pandas as pd
@@ -39,6 +40,7 @@ class DataPrepper:
 class Visualizer:
     def __init__(self, skills):
         self.skills = skills
+        self.flatskills = None
         self.word_count = Counter()
 
     def flatten(self):
@@ -46,15 +48,15 @@ class Visualizer:
         Flattens list of lists to list of strings
         :return: List of strings
         """
-        self.skills = [item for sublist in self.skills for item in sublist]
-        return self.skills
+        self.flatskills = [item for sublist in self.skills for item in sublist]
+        return self.flatskills
 
     def get_count(self):
         """
         Creates dictionary with skills as keys, number of occurrences as values
         :return: dictionary
         """
-        for word in self.skills:
+        for word in self.flatskills:
             self.word_count[word] += 1
         return self.word_count
 
@@ -89,9 +91,19 @@ class Visualizer:
         # sns.barplot(list(self.word_count.keys()), list(self.word_count.values()))
         # plt.show()
 
-    '''TODO visualize skills, and return list of top 5 desired skills along with percent of
-            employers desiring those skills
-        TODO Use networkx to build a network graph of skills. Try to detect any present communities in graph representing
+    def get_all_edges(self):
+        """
+        Build list of edge tuples for network graph  ['A', 'B', 'C'] --> [('A', 'B'), ('A', 'C'), ('B', 'C')]
+        :return: List
+        """
+        edge_list = []
+        # For every job in the list
+        for job in self.skills:
+            # Return all unique node pairs
+            edge_list.append(tuple(itertools.combinations(job, 2)))
+        return edge_list
+
+    '''TODO Use networkx to build a network graph of skills. Try to detect any present communities in graph representing
             an ecosystem or stack of tools commonly desired together.'''
 
 if __name__ == '__main__':
@@ -102,7 +114,8 @@ if __name__ == '__main__':
     visualize = Visualizer(clean)
     visualize.flatten()
     visualize.get_count()
-    visualize.plot_freq()
+    #visualize.plot_freq()
+    print(visualize.get_all_edges())
 
 
 
