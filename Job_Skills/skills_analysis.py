@@ -1,7 +1,7 @@
 from collections import Counter
 import json
 import matplotlib.pyplot as plt
-from operator import itemgetter
+import pandas as pd
 import seaborn as sns
 
 
@@ -61,13 +61,35 @@ class Visualizer:
     def plot_freq(self):
         """
         Creates a frequency histogram depicting number of times each skill is requested across all postings
-        :return: 0
+        :return: None
         """
+        # Create DataFrame object from word count dictionary
+        skills_df = pd.DataFrame(list(self.word_count.items()))
+        skills_df.columns = ["Skill", "Count"]
 
-        sns.barplot(list(self.word_count.keys()), list(self.word_count.values()))
+
+        # Sort DataFrame by Count column
+        skills_df = skills_df.sort_values(['Count'], ascending=False).reset_index(drop=True)
+        print(skills_df)
+
+        # Create a figure
+        plt.figure(figsize=(16, 8))
+        # Plot barchart with DataFrame index as x values
+        ax = sns.barplot(skills_df.index, skills_df.Count)
+        ax.get_yaxis().set_major_formatter(plt.FuncFormatter(lambda x, loc: '{:,}'.format(int(x))))
+        ax.set(xlabel='Skill', ylabel='Count')
+        # add proper Skill values as x labels
+        ax.set_xticklabels(skills_df.Skill, size=8)
+        for item in ax.get_xticklabels(): item.set_rotation(90)
+        for i, v in enumerate(skills_df['Count'].iteritems()):
+            ax.text(i, v[1], '{:,}'.format(v[1]), color='m', va='bottom', rotation=45, size=8)
+        plt.tight_layout()
         plt.show()
 
-    '''TODO Make frequency histogram, visualize skills, and return list of top 5 desired skills along with percent of
+        # sns.barplot(list(self.word_count.keys()), list(self.word_count.values()))
+        # plt.show()
+
+    '''TODO visualize skills, and return list of top 5 desired skills along with percent of
             employers desiring those skills
         TODO Use networkx to build a network graph of skills. Try to detect any present communities in graph representing
             an ecosystem or stack of tools commonly desired together.'''
