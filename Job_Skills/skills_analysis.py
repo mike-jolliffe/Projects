@@ -63,6 +63,11 @@ class Visualizer:
             self.word_count[word] += 1
         # Get rid of Python, b/c appears in every result by default
         del self.word_count['Python']
+        # Get rid of any occurrence that is less than 5
+        drop_keys = [word for word in self.word_count if self.word_count[word] < 10]
+        for key in drop_keys:
+            del self.word_count[key]
+
         return self.word_count
 
     def plot_freq(self):
@@ -93,8 +98,8 @@ class Visualizer:
         plt.tight_layout()
         plt.show()
 
-        #sns.barplot(list(self.word_count.keys()), list(self.word_count.values()))
-        #plt.show()
+        sns.barplot(list(self.word_count.keys()), list(self.word_count.values()))
+        plt.show()
 
     def get_all_edges(self):
         """
@@ -102,6 +107,7 @@ class Visualizer:
         :return: List
         """
         edge_list = []
+        no_py_nodes = []
         # For every job in the list
         for job in self.skills:
             # Return all unique node pairs
@@ -109,8 +115,10 @@ class Visualizer:
         # Drop node pairs where one of the nodes is 'Python'
         for node_pair in edge_list:
             if node_pair[0] == 'Python' or node_pair[1] == 'Python':
-                edge_list.remove(node_pair)
-        self.edgeList = edge_list
+                pass
+            else:
+                no_py_nodes.append(node_pair)
+        self.edgeList = no_py_nodes
         return self.edgeList
 
     '''TODO Use networkx to build a network graph of skills. Try to detect any present communities in graph representing
@@ -129,8 +137,8 @@ class Visualizer:
 
 
         # Plot the graph, sizing nodes by number of occurrences
-        nx.draw(self.graph, nodelist=self.word_count.keys(), with_labels=True, node_size=[v ** 2 for v in self.word_count.values()])
-        plt.show()
+        #nx.draw(self.graph, nodelist=self.word_count.keys(), with_labels=True, node_size=[v ** 2 for v in self.word_count.values()])
+        #plt.show()
 
     def detect_communities(self):
         """
@@ -139,7 +147,7 @@ class Visualizer:
         :return: Dictionary
         """
 
-        k = 90
+        k = 20
         comp = nx.algorithms.community.centrality.girvan_newman(self.graph)
         limited = itertools.takewhile(lambda c: len(c) <= k, comp)
         for communities in limited:
@@ -157,7 +165,6 @@ def run():
     #visualize.plot_freq()
     visualize.get_all_edges()
     visualize.plot_graph()
-    exit()
     visualize.detect_communities()
 
 if __name__ == '__main__':
