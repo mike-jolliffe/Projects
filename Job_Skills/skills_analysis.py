@@ -61,6 +61,8 @@ class Visualizer:
         """
         for word in self.flatskills:
             self.word_count[word] += 1
+        # Get rid of Python, b/c appears in every result by default
+        del self.word_count['Python']
         return self.word_count
 
     def plot_freq(self):
@@ -91,8 +93,8 @@ class Visualizer:
         plt.tight_layout()
         plt.show()
 
-        # sns.barplot(list(self.word_count.keys()), list(self.word_count.values()))
-        # plt.show()
+        #sns.barplot(list(self.word_count.keys()), list(self.word_count.values()))
+        #plt.show()
 
     def get_all_edges(self):
         """
@@ -104,6 +106,10 @@ class Visualizer:
         for job in self.skills:
             # Return all unique node pairs
             edge_list.extend(tuple(itertools.combinations(job, 2)))
+        # Drop node pairs where one of the nodes is 'Python'
+        for node_pair in edge_list:
+            if node_pair[0] == 'Python' or node_pair[1] == 'Python':
+                edge_list.remove(node_pair)
         self.edgeList = edge_list
         return self.edgeList
 
@@ -123,8 +129,8 @@ class Visualizer:
 
 
         # Plot the graph, sizing nodes by number of occurrences
-        #nx.draw(g, nodelist=self.word_count.keys(), with_labels=True, node_size=[v * 10 for v in self.word_count.values()])
-        #plt.show()
+        nx.draw(self.graph, nodelist=self.word_count.keys(), with_labels=True, node_size=[v ** 2 for v in self.word_count.values()])
+        plt.show()
 
     def detect_communities(self):
         """
@@ -147,9 +153,11 @@ def run():
     visualize = Visualizer(clean)
     visualize.flatten()
     visualize.get_count()
-    # visualize.plot_freq()
+
+    #visualize.plot_freq()
     visualize.get_all_edges()
     visualize.plot_graph()
+    exit()
     visualize.detect_communities()
 
 if __name__ == '__main__':
