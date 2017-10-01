@@ -31,7 +31,7 @@ class SoupParser:
         return flat_list
 
     def to_json(self, list_data):
-        '''Pickles scraped data for later use'''
+        '''Serializes scraped data to JSON object and writes to file for later use'''
         with open('jobs.json', 'w') as js_file:
             json.dump(list_data, js_file)
 
