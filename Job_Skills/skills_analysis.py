@@ -98,8 +98,8 @@ class Visualizer:
         plt.tight_layout()
         plt.show()
 
-        sns.barplot(list(self.word_count.keys()), list(self.word_count.values()))
-        plt.show()
+        #sns.barplot(list(self.word_count.keys()), list(self.word_count.values()))
+        #plt.show()
 
     def get_all_edges(self):
         """
@@ -138,10 +138,13 @@ class Visualizer:
         # Add all edges from edge list to the object
         self.graph.add_edges_from(self.edgeList)
 
-
         # Plot the graph, sizing nodes by number of occurrences
-        #nx.draw(self.graph, nodelist=self.word_count.keys(), with_labels=True, node_size=[v ** 1.6 for v in self.word_count.values()])
-        #plt.show()
+        nx.draw(self.graph, nodelist=self.word_count.keys(),
+                            edge_color='gray',
+                            font_color='black', with_labels=True,
+                            font_weight='bold', node_size=[v ** 1.6 for v in self.word_count.values()])
+
+        plt.show()
 
     def detect_communities(self):
         """
@@ -174,7 +177,7 @@ def run():
     visualize.flatten()
     visualize.get_count()
 
-    visualize.plot_freq()
+    #visualize.plot_freq()
     visualize.get_all_edges()
     visualize.plot_graph()
     print(visualize.detect_communities())
