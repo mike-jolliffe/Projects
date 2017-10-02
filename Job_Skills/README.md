@@ -9,3 +9,6 @@
 
 ### Network Graph of Desired Skills
 ![Network Graph](skills_network.png)
+
+## Core Community Detected Using Girvan-Newman algorithm
+![Core Community](core_community.png)

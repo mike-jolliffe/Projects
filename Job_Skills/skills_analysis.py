@@ -127,7 +127,7 @@ class Visualizer:
     '''TODO Use networkx to build a network graph of skills. Try to detect any present communities in graph representing
             an ecosystem or stack of tools commonly desired together.'''
 
-    def plot_graph(self):
+    def plot_graph(self, edges):
         """
         Builds and plots a network graph
         :return: None
@@ -136,21 +136,21 @@ class Visualizer:
         self.graph = nx.Graph()
 
         # Add all edges from edge list to the object
-        self.graph.add_edges_from(self.edgeList)
+        self.graph.add_edges_from(edges)
 
         # Plot the graph, sizing nodes by number of occurrences
-        nx.draw(self.graph, nodelist=self.word_count.keys(),
-                            edge_color='gray',
-                            font_color='black', with_labels=True,
-                            font_weight='bold', node_size=[v ** 1.6 for v in self.word_count.values()])
+        # nx.draw(self.graph, nodelist=self.word_count.keys(),
+        #                     edge_color='gray',
+        #                     font_color='black', with_labels=True,
+        #                     font_weight='bold', node_size=[v ** 1.6 for v in self.word_count.values()])
+        #
+        # plt.show()
 
-        plt.show()
-
-    def detect_communities(self):
+    def detect_communities(self, graph):
         """
         Finds up to k different communities by using Girvan-Newman algorithm for edge removal. Also finds the largest
         clique for each node in the network
-        :return: Dictionary
+        :return: List
         """
         # return len(list(nx.algorithms.clique.find_cliques(self.graph)))
 
@@ -158,14 +158,42 @@ class Visualizer:
         # exit()
         # nx.draw(G, with_labels=True)
         # plt.show()
-
+        comm_list = []
         k = 40
-        comp = nx.algorithms.community.centrality.girvan_newman(self.graph)
+        comp = nx.algorithms.community.centrality.girvan_newman(graph)
         limited = itertools.takewhile(lambda c: len(c) <= k, comp)
         for communities in limited:
-            if len(communities) == 50:
-                print(tuple(sorted(c) for c in communities))
+            if len(communities) == 40:
+                    for skills in communities:
+                        # Return all unique node pairs
+                        comm_list.extend(tuple(itertools.combinations(skills, 2)))
+        return comm_list
 
+    def plot_communities(self, edges):
+        """
+        Plots most-central subgroup(s)
+        :return: None
+        """
+        comm_dict = {}
+        for pair in edges:
+            if not pair[0] in comm_dict:
+                comm_dict[pair[0]] = self.word_count[pair[0]]
+            if not pair[1] in comm_dict:
+                comm_dict[pair[1]] = self.word_count[pair[1]]
+
+        # Instantiate a Graph object
+        self.graph = nx.Graph()
+
+        # Add all edges from edge list to the object
+        self.graph.add_edges_from(edges)
+
+        # Plot the graph, sizing nodes by number of occurrences
+        nx.draw(self.graph, nodelist=comm_dict.keys(),
+                edge_color='gray',
+                font_color='black', with_labels=True,
+                font_weight='bold', node_size=[v ** 1.6 for v in comm_dict.values()])
+
+        plt.show()
 
 
 def run():
@@ -179,8 +207,9 @@ def run():
 
     #visualize.plot_freq()
     visualize.get_all_edges()
-    visualize.plot_graph()
-    print(visualize.detect_communities())
+    visualize.plot_graph(visualize.edgeList)
+    core_comm = visualize.detect_communities(visualize.graph)
+    visualize.plot_communities(core_comm)
 
 if __name__ == '__main__':
     run()
