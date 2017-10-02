@@ -174,7 +174,7 @@ def run():
     visualize.flatten()
     visualize.get_count()
 
-    #visualize.plot_freq()
+    visualize.plot_freq()
     visualize.get_all_edges()
     visualize.plot_graph()
     print(visualize.detect_communities())
