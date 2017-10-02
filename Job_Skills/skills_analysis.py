@@ -112,9 +112,12 @@ class Visualizer:
         for job in self.skills:
             # Return all unique node pairs
             edge_list.extend(tuple(itertools.combinations(job, 2)))
-        # Drop node pairs where one of the nodes is 'Python'
         for node_pair in edge_list:
+            # Drop node pairs where one of the nodes is 'Python'
             if node_pair[0] == 'Python' or node_pair[1] == 'Python':
+                pass
+            # Drop node pairs where one of the elements is low-frequency
+            elif not node_pair[0] in self.word_count or not node_pair[1] in self.word_count:
                 pass
             else:
                 no_py_nodes.append(node_pair)
@@ -137,21 +140,30 @@ class Visualizer:
 
 
         # Plot the graph, sizing nodes by number of occurrences
-        #nx.draw(self.graph, nodelist=self.word_count.keys(), with_labels=True, node_size=[v ** 2 for v in self.word_count.values()])
+        #nx.draw(self.graph, nodelist=self.word_count.keys(), with_labels=True, node_size=[v ** 1.6 for v in self.word_count.values()])
         #plt.show()
 
     def detect_communities(self):
         """
-        Finds up to k different communities by using Girvan-Newman algorithm for edge removal. Builds dictionary with
-        number of communities as key, and communities themselves as values.
+        Finds up to k different communities by using Girvan-Newman algorithm for edge removal. Also finds the largest
+        clique for each node in the network
         :return: Dictionary
         """
+        # return len(list(nx.algorithms.clique.find_cliques(self.graph)))
 
-        k = 20
+        # G = nx.algorithms.clique.make_max_clique_graph(self.graph)
+        # exit()
+        # nx.draw(G, with_labels=True)
+        # plt.show()
+
+        k = 40
         comp = nx.algorithms.community.centrality.girvan_newman(self.graph)
         limited = itertools.takewhile(lambda c: len(c) <= k, comp)
         for communities in limited:
-             print(tuple(sorted(c) for c in communities))
+            if len(communities) == 50:
+                print(tuple(sorted(c) for c in communities))
+
+
 
 def run():
     data = DataPrepper('jobs.json')
@@ -165,7 +177,7 @@ def run():
     #visualize.plot_freq()
     visualize.get_all_edges()
     visualize.plot_graph()
-    visualize.detect_communities()
+    print(visualize.detect_communities())
 
 if __name__ == '__main__':
     run()
